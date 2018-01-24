@@ -1,0 +1,2 @@
+configurations.maybeCreate("default")
+artifacts.add("default", file('beyondar-v0.9.3.jar'))

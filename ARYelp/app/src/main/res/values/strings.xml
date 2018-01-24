@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">dinAR</string>
+    
+    <string-array name="filter_types">
+        <item>Nearby</item>
+        <item>Top Rated</item>
+        <item>Price</item>
+    </string-array>
+</resources>

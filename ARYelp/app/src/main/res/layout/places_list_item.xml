@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:padding="8dp"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <android.support.v7.widget.CardView
+        xmlns:card_view="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/card_view"
+        android:layout_gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        card_view:cardUseCompatPadding="true"
+        card_view:cardCornerRadius="2dp">
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            
+            <ImageView
+                android:background="@color/colorPrimaryDark"
+                android:src="@mipmap/ic_food_dark"
+                android:layout_width="110dp"
+                android:layout_height="110dp"
+                android:id="@+id/iv_main" />
+            
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:paddingBottom="8dp"
+                android:paddingTop="8dp"
+                android:paddingStart="16dp"
+                android:paddingEnd="16dp">
+                
+                <TextView
+                    android:id="@+id/tv_name"
+                    android:textSize="22sp"
+                    android:maxLines="1"
+                    android:ellipsize="end"
+                    android:textColor="@color/colorPrimary"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" />
+
+                <FrameLayout
+                    android:layout_marginTop="4dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="40dp">
+
+                    <RatingBar
+                        android:theme="@style/RatingBar"
+                        android:id="@+id/rating"
+                        android:rating="3.5"
+                        android:stepSize="0.1"
+                        android:numStars="5"
+                        android:scaleX=".5"
+                        android:scaleY=".5"
+                        android:transformPivotX="0dp"
+                        android:transformPivotY="0dp"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content" />
+
+                    <LinearLayout
+                        android:orientation="horizontal"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="140dp"
+                        android:layout_marginTop="1dp">
+
+                        <TextView
+                            android:text="42"
+                            android:textSize="16sp"
+                            android:textColor="@color/colorPrimary"
+                            android:textStyle="bold"
+                            android:layout_marginStart="4dp"
+                            android:layout_marginEnd="4dp"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content" />
+
+                        <TextView
+                            android:text="Reviews"
+                            android:textSize="16sp"
+                            android:textColor="@color/subGray"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content" />
+
+                    </LinearLayout>
+
+                </FrameLayout>
+
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+                    <TextView
+                        android:id="@+id/tv_price"
+                        android:textStyle="bold"
+                        android:textColor="@color/colorPrimary"
+                        android:layout_alignParentTop="true"
+                        android:layout_alignParentLeft="true"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content" />
+
+                </RelativeLayout>
+            </LinearLayout>
+            
+        </LinearLayout>
+
+    </android.support.v7.widget.CardView>
+
+</FrameLayout>

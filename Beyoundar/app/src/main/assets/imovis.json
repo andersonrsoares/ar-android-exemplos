@@ -1,0 +1,4705 @@
+{
+  "total": 55,
+  "dados": [
+    {
+      "ID": "9013",
+      "codigo": "3169",
+      "titulo": "Casa",
+      "imovel_habilitacao_obj": {
+        "term_id": 78,
+        "name": "Comercial",
+        "slug": "comercial"
+      },
+      "tipo": {
+        "name": "Casa",
+        "slug": "casa"
+      },
+      "finalidades_imovel": [
+        {
+          "name": "Loca\u00e7\u00e3o",
+          "slug": "locacao"
+        }
+      ],
+      "lat": "-25.4606543",
+      "lng": "-49.2825616",
+      "novo": null,
+      "valor_venda": "",
+      "valor_venda_ext": "0",
+      "valor_aluguel": "3.350,00",
+      "valor_aluguel_ext": "3",
+      "frase_destaque": {
+        "ID": 0,
+        "key": "field_imovel_frase_destaque",
+        "label": "Frase de Destaque",
+        "name": "imovel_frase_destaque",
+        "prefix": "acf",
+        "type": "select",
+        "value": "",
+        "menu_order": 32,
+        "instructions": "",
+        "required": 0,
+        "id": "",
+        "class": "",
+        "conditional_logic": 0,
+        "parent": "group_acf_dados-imovel",
+        "wrapper": {
+          "id": "acf-imovel_frase_destaque"
+        },
+        "_name": "imovel_frase_destaque",
+        "_input": "",
+        "_valid": 1,
+        "choices": {
+          "": "",
+          "lancamento": "Lan\u00e7amento",
+          "novo": "Novo",
+          "promocao": "Promo\u00e7\u00e3o",
+          "oportunidade": "Oportunidade",
+          "baixou": "Baixou",
+          "1_locacao": "1\u00aa Loca\u00e7\u00e3o"
+        },
+        "default_value": "",
+        "placeholder": "",
+        "prepend": "",
+        "append": "",
+        "formatting": "none",
+        "maxlength": "",
+        "multiple": 0,
+        "allow_null": 0,
+        "ui": 0,
+        "ajax": 0,
+        "return_format": "value"
+      },
+      "imovel_status": "Dispon\u00edvel",
+      "imovel_dormitorios": "3",
+      "imovel_banheiros": "3",
+      "imovel_garagens": "6",
+      "imovel_area_util": "245",
+      "endereco": {
+        "rua": "Rua Murilo do Amaral Ferreira, 643",
+        "cidade": "Curitiba, PR",
+        "bairro": "\u00c1gua Verde"
+      },
+      "descricao": "
+      <p>
+      <em>Monte sua empresa nessa ampla casa de esquina!<\/em><\/p>\n",
+      "permalink": "http:\/\/www.senzalaimoveis.com.br\/imoveis\/curitiba-\/locacao\/comercial\/casa\/casa-padrao-3-dormitorios-6-garagens-3-salas-agua-verde-3169\/",
+      "thumb_image_url": "http:\/\/www.senzalaimoveis.com.br\/wp-content\/uploads\/2016\/10\/cod3169-destaque-328x180.jpg",
+      "full_image_url": "http:\/\/www.senzalaimoveis.com.br\/wp-content\/uploads\/2016\/10\/cod3169-destaque.jpg"
+    },
+    {
+      "ID": "1329",
+      "codigo": "2974",
+      "titulo": "Residencial San Giuliani",
+      "imovel_habilitacao_obj": {
+        "term_id": 79,
+        "name": "Residencial",
+        "slug": "residencial"
+      },
+      "tipo": {
+        "name": "Casa",
+        "slug": "casa"
+      },
+      "finalidades_imovel": [
+        {
+          "name": "Loca\u00e7\u00e3o",
+          "slug": "locacao"
+        },
+        {
+          "name": "Venda",
+          "slug": "venda"
+        }
+      ],
+      "lat": "-25.4001955",
+      "lng": "-49.28418650000003",
+      "novo": null,
+      "valor_venda": "650.000,00",
+      "valor_venda_ext": "650",
+      "valor_aluguel": "2.600,00",
+      "valor_aluguel_ext": "3",
+      "frase_destaque": {
+        "ID": 0,
+        "key": "field_imovel_frase_destaque",
+        "label": "Frase de Destaque",
+        "name": "imovel_frase_destaque",
+        "prefix": "acf",
+        "type": "select",
+        "value": "baixou",
+        "menu_order": 32,
+        "instructions": "",
+        "required": 0,
+        "id": "",
+        "class": "",
+        "conditional_logic": 0,
+        "parent": "group_acf_dados-imovel",
+        "wrapper": {
+          "id": "acf-imovel_frase_destaque"
+        },
+        "_name": "imovel_frase_destaque",
+        "_input": "",
+        "_valid": 1,
+        "choices": {
+          "": "",
+          "lancamento": "Lan\u00e7amento",
+          "novo": "Novo",
+          "promocao": "Promo\u00e7\u00e3o",
+          "oportunidade": "Oportunidade",
+          "baixou": "Baixou",
+          "1_locacao": "1\u00aa Loca\u00e7\u00e3o"
+        },
+        "default_value": "",
+        "placeholder": "",
+        "prepend": "",
+        "append": "",
+        "formatting": "none",
+        "maxlength": "",
+        "multiple": 0,
+        "allow_null": 0,
+        "ui": 0,
+        "ajax": 0,
+        "return_format": "value"
+      },
+      "imovel_status": "Dispon\u00edvel",
+      "imovel_dormitorios": "3",
+      "imovel_banheiros": "3",
+      "imovel_garagens": "3",
+      "imovel_area_util": "200",
+      "endereco": {
+        "rua": "Rua Maria Ballin Baroni, 381",
+        "cidade": "Curitiba, PR",
+        "bairro": "Bom Retiro"
+      },
+      "descricao": "
+      <p>
+      <em>Veja que\u00a0belo sobrado quadriplex mobiliado em condom\u00ednio fechado para voc\u00ea morar!<\/em><\/p>\n
+      <p>&nbsp;<\/p>\n",
+      "permalink": "http:\/\/www.senzalaimoveis.com.br\/imoveis\/curitiba-pr\/locacao\/residencial\/casa\/sobrado-3-dormitorios-3-garagens-bom-retiro-2974\/",
+      "thumb_image_url": "http:\/\/www.senzalaimoveis.com.br\/wp-content\/uploads\/2016\/04\/cod2974-destaque-328x168.jpg",
+      "full_image_url": "http:\/\/www.senzalaimoveis.com.br\/wp-content\/uploads\/2016\/04\/cod2974-destaque.jpg"
+    },
+    {
+      "ID": "788",
+      "codigo": "2962",
+      "titulo": "Ed. Imperial Hall Residence",
+      "imovel_habilitacao_obj": {
+        "term_id": 79,
+        "name": "Residencial",
+        "slug": "residencial"
+      },
+      "tipo": {
+        "name": "Apartamento",
+        "slug": "apartamento"
+      },
+      "finalidades_imovel": [
+        {
+          "name": "Loca\u00e7\u00e3o",
+          "slug": "locacao"
+        },
+        {
+          "name": "Venda",
+          "slug": "venda"
+        }
+      ],
+      "lat": "-25.4323449",
+      "lng": "-49.29423810000003",
+      "novo": null,
+      "valor_venda": "780.000,00",
+      "valor_venda_ext": "780",
+      "valor_aluguel": "2.500,00",
+      "valor_aluguel_ext": "3",
+      "frase_destaque": {
+        "ID": 0,
+        "key": "field_imovel_frase_destaque",
+        "label": "Frase de Destaque",
+        "name": "imovel_frase_destaque",
+        "prefix": "acf",
+        "type": "select",
+        "value": "",
+        "menu_order": 32,
+        "instructions": "",
+        "required": 0,
+        "id": "",
+        "class": "",
+        "conditional_logic": 0,
+        "parent": "group_acf_dados-imovel",
+        "wrapper": {
+          "id": "acf-imovel_frase_destaque"
+        },
+        "_name": "imovel_frase_destaque",
+        "_input": "",
+        "_valid": 1,
+        "choices": {
+          "": "",
+          "lancamento": "Lan\u00e7amento",
+          "novo": "Novo",
+          "promocao": "Promo\u00e7\u00e3o",
+          "oportunidade": "Oportunidade",
+          "baixou": "Baixou",
+          "1_locacao": "1\u00aa Loca\u00e7\u00e3o"
+        },
+        "default_value": "",
+        "placeholder": "",
+        "prepend": "",
+        "append": "",
+        "formatting": "none",
+        "maxlength": "",
+        "multiple": 0,
+        "allow_null": 0,
+        "ui": 0,
+        "ajax": 0,
+        "return_format": "value"
+      },
+      "imovel_status": "Dispon\u00edvel",
+      "imovel_dormitorios": "4",
+      "imovel_banheiros": "4",
+      "imovel_garagens": "3",
+      "imovel_area_util": "156.44",
+      "endereco": {
+        "rua": "Rua Martim Afonso, 1801",
+        "cidade": "Curitiba, PR",
+        "bairro": "Bigorrilho"
+      },
+      "descricao": "
+      <p>
+      <em>Um luxo de apartamento no melhor do Bigorrilho!<\/em><\/p>\n",
+      "permalink": "http:\/\/www.senzalaimoveis.com.br\/imoveis\/curitiba-pr\/locacao\/residencial\/apartamento\/apartamento-padrao-4-dormitorios-3-garagens-bigorrilho-2962\/",
+      "thumb_image_url": "http:\/\/www.senzalaimoveis.com.br\/wp-content\/uploads\/2016\/04\/cod2962-destaque-328x180.jpg",
+      "full_image_url": "http:\/\/www.senzalaimoveis.com.br\/wp-content\/uploads\/2016\/04\/cod2962-destaque.jpg"
+    },
+    {
+      "ID": "841",
+      "codigo": "2963",
+      "titulo": "Ed. Imperial Hall Residence",
+      "imovel_habilitacao_obj": {
+        "term_id": 79,
+        "name": "Residencial",
+        "slug": "residencial"
+      },
+      "tipo": {
+        "name": "Apartamento",
+        "slug": "apartamento"
+      },
+      "finalidades_imovel": [
+        {
+          "name": "Loca\u00e7\u00e3o",
+          "slug": "locacao"
+        },
+        {
+          "name": "Venda",
+          "slug": "venda"
+        }
+      ],
+      "lat": "-25.4323449",
+      "lng": "-49.29423810000003",
+      "novo": null,
+      "valor_venda": "780.000,00",
+      "valor_venda_ext": "780",
+      "valor_aluguel": "2.500,00",
+      "valor_aluguel_ext": "3",
+      "frase_destaque": {
+        "ID": 0,
+        "key": "field_imovel_frase_destaque",
+        "label": "Frase de Destaque",
+        "name": "imovel_frase_destaque",
+        "prefix": "acf",
+        "type": "select",
+        "value": "",
+        "menu_order": 32,
+        "instructions": "",
+        "required": 0,
+        "id": "",
+        "class": "",
+        "conditional_logic": 0,
+        "parent": "group_acf_dados-imovel",
+        "wrapper": {
+          "id": "acf-imovel_frase_destaque"
+        },
+        "_name": "imovel_frase_destaque",
+        "_input": "",
+        "_valid": 1,
+        "choices": {
+          "": "",
+          "lancamento": "Lan\u00e7amento",
+          "novo": "Novo",
+          "promocao": "Promo\u00e7\u00e3o",
+          "oportunidade": "Oportunidade",
+          "baixou": "Baixou",
+          "1_locacao": "1\u00aa Loca\u00e7\u00e3o"
+        },
+        "default_value": "",
+        "placeholder": "",
+        "prepend": "",
+        "append": "",
+        "formatting": "none",
+        "maxlength": "",
+        "multiple": 0,
+        "allow_null": 0,
+        "ui": 0,
+        "ajax": 0,
+        "return_format": "value"
+      },
+      "imovel_status": "Dispon\u00edvel",
+      "imovel_dormitorios": "4",
+      "imovel_banheiros": "4",
+      "imovel_garagens": "3",
+      "imovel_area_util": "156.44",
+      "endereco": {
+        "rua": "Rua Martim Afonso, 1801",
+        "cidade": "Curitiba, PR",
+        "bairro": "Bigorrilho"
+      },
+      "descricao": "
+      <p>
+      <em>Sua chance de morar em um apartamento confort\u00e1vel no Bigorrilho!<\/em><\/p>\n",
+      "permalink": "http:\/\/www.senzalaimoveis.com.br\/imoveis\/curitiba-pr\/locacao\/residencial\/apartamento\/apartamento-padrao-4-dormitorios-3-garagens-bigorrilho-2963\/",
+      "thumb_image_url": "http:\/\/www.senzalaimoveis.com.br\/wp-content\/uploads\/2016\/04\/cod2962-destaque-328x180.jpg",
+      "full_image_url": "http:\/\/www.senzalaimoveis.com.br\/wp-content\/uploads\/2016\/04\/cod2962-destaque.jpg"
+    },
+    {
+      "ID": "1693",
+      "codigo": "2870",
+      "titulo": "Ed. Hayat",
+      "imovel_habilitacao_obj": {
+        "term_id": 79,
+        "name": "Residencial",
+        "slug": "residencial"
+      },
+      "tipo": {
+        "name": "Apartamento",
+        "slug": "apartamento"
+      },
+      "finalidades_imovel": [
+        {
+          "name": "Loca\u00e7\u00e3o",
+          "slug": "locacao"
+        }
+      ],
+      "lat": "-25.4325516",
+      "lng": "-49.29498649999999",
+      "novo": null,
+      "valor_venda": "",
+      "valor_venda_ext": "0",
+      "valor_aluguel": "1.600,00",
+      "valor_aluguel_ext": "2",
+      "frase_destaque": {
+        "ID": 0,
+        "key": "field_imovel_frase_destaque",
+        "label": "Frase de Destaque",
+        "name": "imovel_frase_destaque",
+        "prefix": "acf",
+        "type": "select",
+        "value": "",
+        "menu_order": 32,
+        "instructions": "",
+        "required": 0,
+        "id": "",
+        "class": "",
+        "conditional_logic": 0,
+        "parent": "group_acf_dados-imovel",
+        "wrapper": {
+          "id": "acf-imovel_frase_destaque"
+        },
+        "_name": "imovel_frase_destaque",
+        "_input": "",
+        "_valid": 1,
+        "choices": {
+          "": "",
+          "lancamento": "Lan\u00e7amento",
+          "novo": "Novo",
+          "promocao": "Promo\u00e7\u00e3o",
+          "oportunidade": "Oportunidade",
+          "baixou": "Baixou",
+          "1_locacao": "1\u00aa Loca\u00e7\u00e3o"
+        },
+        "default_value": "",
+        "placeholder": "",
+        "prepend": "",
+        "append": "",
+        "formatting": "none",
+        "maxlength": "",
+        "multiple": 0,
+        "allow_null": 0,
+        "ui": 0,
+        "ajax": 0,
+        "return_format": "value"
+      },
+      "imovel_status": "Dispon\u00edvel",
+      "imovel_dormitorios": "2",
+      "imovel_banheiros": "2",
+      "imovel_garagens": "1",
+      "imovel_area_util": "80.12",
+      "endereco": {
+        "rua": "Rua Martim Afonso, 1871",
+        "cidade": "Curitiba, PR",
+        "bairro": "Bigorrilho"
+      },
+      "descricao": "
+      <p>
+      <em>Apartamento moderno e bonito no melhor bairro de Curitiba!<\/em><\/p>\n",
+      "permalink": "http:\/\/www.senzalaimoveis.com.br\/imoveis\/curitiba-pr\/locacao\/residencial\/apartamento\/apartamento-padrao-2-dormitorios-1-garagem-bigorrilho-2870\/",
+      "thumb_image_url": "http:\/\/www.senzalaimoveis.com.br\/wp-content\/uploads\/2016\/04\/cod2870-destaque-328x168.jpg",
+      "full_image_url": "http:\/\/www.senzalaimoveis.com.br\/wp-content\/uploads\/2016\/04\/cod2870-destaque.jpg"
+    },
+    {
+      "ID": "6465",
+      "codigo": "831",
+      "titulo": "Ed. Vanessa",
+      "imovel_habilitacao_obj": {
+        "term_id": 79,
+        "name": "Residencial",
+        "slug": "residencial"
+      },
+      "tipo": {
+        "name": "Apartamento",
+        "slug": "apartamento"
+      },
+      "finalidades_imovel": [
+        {
+          "name": "Loca\u00e7\u00e3o",
+          "slug": "locacao"
+        }
+      ],
+      "lat": "-25.4236542",
+      "lng": "-49.28784289999999",
+      "novo": null,
+      "valor_venda": "",
+      "valor_venda_ext": "0",
+      "valor_aluguel": "1.500,00",
+      "valor_aluguel_ext": "2",
+      "frase_destaque": {
+        "ID": 0,
+        "key": "field_imovel_frase_destaque",
+        "label": "Frase de Destaque",
+        "name": "imovel_frase_destaque",
+        "prefix": "acf",
+        "type": "select",
+        "value": "",
+        "menu_order": 32,
+        "instructions": "",
+        "required": 0,
+        "id": "",
+        "class": "",
+        "conditional_logic": 0,
+        "parent": "group_acf_dados-imovel",
+        "wrapper": {
+          "id": "acf-imovel_frase_destaque"
+        },
+        "_name": "imovel_frase_destaque",
+        "_input": "",
+        "_valid": 1,
+        "choices": {
+          "": "",
+          "lancamento": "Lan\u00e7amento",
+          "novo": "Novo",
+          "promocao": "Promo\u00e7\u00e3o",
+          "oportunidade": "Oportunidade",
+          "baixou": "Baixou",
+          "1_locacao": "1\u00aa Loca\u00e7\u00e3o"
+        },
+        "default_value": "",
+        "placeholder": "",
+        "prepend": "",
+        "append": "",
+        "formatting": "none",
+        "maxlength": "",
+        "multiple": 0,
+        "allow_null": 0,
+        "ui": 0,
+        "ajax": 0,
+        "return_format": "value"
+      },
+      "imovel_status": "Dispon\u00edvel",
+      "imovel_dormitorios": "3",
+      "imovel_banheiros": "3",
+      "imovel_garagens": "2",
+      "imovel_area_util": "131.33",
+      "endereco": {
+        "rua": "Rua J\u00falia Wanderley, 325",
+        "cidade": "Curitiba, PR",
+        "bairro": "Merc\u00eas"
+      },
+      "descricao": "
+      <p>
+      <em>Apartamento confort\u00e1vel e amplo!<\/em><\/p>\n",
+      "permalink": "http:\/\/www.senzalaimoveis.com.br\/imoveis\/curitiba-pr\/locacao\/residencial\/apartamento\/apartamento-padrao-3-dormitorios-2-garagens-merces-831\/",
+      "thumb_image_url": "http:\/\/www.senzalaimoveis.com.br\/wp-content\/uploads\/2016\/07\/cod831-destaque-328x180.jpg",
+      "full_image_url": "http:\/\/www.senzalaimoveis.com.br\/wp-content\/uploads\/2016\/07\/cod831-destaque.jpg"
+    },
+    {
+      "ID": "8242",
+      "codigo": "3159",
+      "titulo": "Ed. Conselheiro Laurindo",
+      "imovel_habilitacao_obj": {
+        "term_id": 79,
+        "name": "Residencial",
+        "slug": "residencial"
+      },
+      "tipo": {
+        "name": "Apartamento",
+        "slug": "apartamento"
+      },
+      "finalidades_imovel": [
+        {
+          "name": "Loca\u00e7\u00e3o",
+          "slug": "locacao"
+        }
+      ],
+      "lat": "-25.4334675",
+      "lng": "-49.2633393",
+      "novo": null,
+      "valor_venda": "",
+      "valor_venda_ext": "0",
+      "valor_aluguel": "1.500,00",
+      "valor_aluguel_ext": "2",
+      "frase_destaque": {
+        "ID": 0,
+        "key": "field_imovel_frase_destaque",
+        "label": "Frase de Destaque",
+        "name": "imovel_frase_destaque",
+        "prefix": "acf",
+        "type": "select",
+        "value": "",
+        "menu_order": 32,
+        "instructions": "",
+        "required": 0,
+        "id": "",
+        "class": "",
+        "conditional_logic": 0,
+        "parent": "group_acf_dados-imovel",
+        "wrapper": {
+          "id": "acf-imovel_frase_destaque"
+        },
+        "_name": "imovel_frase_destaque",
+        "_input": "",
+        "_valid": 1,
+        "choices": {
+          "": "",
+          "lancamento": "Lan\u00e7amento",
+          "novo": "Novo",
+          "promocao": "Promo\u00e7\u00e3o",
+          "oportunidade": "Oportunidade",
+          "baixou": "Baixou",
+          "1_locacao": "1\u00aa Loca\u00e7\u00e3o"
+        },
+        "default_value": "",
+        "placeholder": "",
+        "prepend": "",
+        "append": "",
+        "formatting": "none",
+        "maxlength": "",
+        "multiple": 0,
+        "allow_null": 0,
+        "ui": 0,
+        "ajax": 0,
+        "return_format": "value"
+      },
+      "imovel_status": "Dispon\u00edvel",
+      "imovel_dormitorios": "2",
+      "imovel_banheiros": "2",
+      "imovel_garagens": "1",
+      "imovel_area_util": "58",
+      "endereco": {
+        "rua": "Rua Conselheiro Laurindo, 781",
+        "cidade": "Curitiba, PR",
+        "bairro": "Centro"
+      },
+      "descricao": "
+      <p>
+      <em>Semimobiliado e com garagem!<\/em><\/p>\n",
+      "permalink": "http:\/\/www.senzalaimoveis.com.br\/imoveis\/curitiba-\/locacao\/residencial\/apartamento\/apartamento-padrao-2-dormitorios-1-garagem-centro-3159\/",
+      "thumb_image_url": "http:\/\/www.senzalaimoveis.com.br\/wp-content\/uploads\/2016\/09\/cod3159-destaque2-328x180.jpg",
+      "full_image_url": "http:\/\/www.senzalaimoveis.com.br\/wp-content\/uploads\/2016\/09\/cod3159-destaque2.jpg"
+    },
+    {
+      "ID": "6747",
+      "codigo": "1439",
+      "titulo": "Ed. Monte Cabral",
+      "imovel_habilitacao_obj": {
+        "term_id": 79,
+        "name": "Residencial",
+        "slug": "residencial"
+      },
+      "tipo": {
+        "name": "Apartamento",
+        "slug": "apartamento"
+      },
+      "finalidades_imovel": [
+        {
+          "name": "Loca\u00e7\u00e3o",
+          "slug": "locacao"
+        }
+      ],
+      "lat": "-25.4092629",
+      "lng": "-49.254353400000014",
+      "novo": null,
+      "valor_venda": "",
+      "valor_venda_ext": "0",
+      "valor_aluguel": "1.450,00",
+      "valor_aluguel_ext": "1",
+      "frase_destaque": {
+        "ID": 0,
+        "key": "field_imovel_frase_destaque",
+        "label": "Frase de Destaque",
+        "name": "imovel_frase_destaque",
+        "prefix": "acf",
+        "type": "select",
+        "value": "",
+        "menu_order": 32,
+        "instructions": "",
+        "required": 0,
+        "id": "",
+        "class": "",
+        "conditional_logic": 0,
+        "parent": "group_acf_dados-imovel",
+        "wrapper": {
+          "id": "acf-imovel_frase_destaque"
+        },
+        "_name": "imovel_frase_destaque",
+        "_input": "",
+        "_valid": 1,
+        "choices": {
+          "": "",
+          "lancamento": "Lan\u00e7amento",
+          "novo": "Novo",
+          "promocao": "Promo\u00e7\u00e3o",
+          "oportunidade": "Oportunidade",
+          "baixou": "Baixou",
+          "1_locacao": "1\u00aa Loca\u00e7\u00e3o"
+        },
+        "default_value": "",
+        "placeholder": "",
+        "prepend": "",
+        "append": "",
+        "formatting": "none",
+        "maxlength": "",
+        "multiple": 0,
+        "allow_null": 0,
+        "ui": 0,
+        "ajax": 0,
+        "return_format": "value"
+      },
+      "imovel_status": "Dispon\u00edvel",
+      "imovel_dormitorios": "2",
+      "imovel_banheiros": "2",
+      "imovel_garagens": "1",
+      "imovel_area_util": "79.72",
+      "endereco": {
+        "rua": "Rua S\u00e3o Pedro, 261",
+        "cidade": "Curitiba, PR",
+        "bairro": "Cabral"
+      },
+      "descricao": "
+      <p>
+      <em>Lindo apartamento mobiliado no miolo do Cabral com vista panor\u00e2mica!<\/em><\/p>\n",
+      "permalink": "http:\/\/www.senzalaimoveis.com.br\/imoveis\/curitiba-pr\/locacao\/residencial\/apartamento\/apartamento-padrao-2-dormitorios-1-garagem-cabral-1439\/",
+      "thumb_image_url": "http:\/\/www.senzalaimoveis.com.br\/wp-content\/uploads\/2016\/07\/cod1439-destaque1-328x180.jpg",
+      "full_image_url": "http:\/\/www.senzalaimoveis.com.br\/wp-content\/uploads\/2016\/07\/cod1439-destaque1.jpg"
+    },
+    {
+      "ID": "6401",
+      "codigo": "3036",
+      "titulo": "Ed. Piazza Maggiore",
+      "imovel_habilitacao_obj": {
+        "term_id": 79,
+        "name": "Residencial",
+        "slug": "residencial"
+      },
+      "tipo": {
+        "name": "Apartamento",
+        "slug": "apartamento"
+      },
+      "finalidades_imovel": [
+        {
+          "name": "Loca\u00e7\u00e3o",
+          "slug": "locacao"
+        },
+        {
+          "name": "Venda",
+          "slug": "venda"
+        }
+      ],
+      "lat": "-25.3838546",
+      "lng": "-49.29394209999998",
+      "novo": null,
+      "valor_venda": "310.000,00",
+      "valor_venda_ext": "310",
+      "valor_aluguel": "1.400,00",
+      "valor_aluguel_ext": "1",
+      "frase_destaque": {
+        "ID": 0,
+        "key": "field_imovel_frase_destaque",
+        "label": "Frase de Destaque",
+        "name": "imovel_frase_destaque",
+        "prefix": "acf",
+        "type": "select",
+        "value": "oportunidade",
+        "menu_order": 32,
+        "instructions": "",
+        "required": 0,
+        "id": "",
+        "class": "",
+        "conditional_logic": 0,
+        "parent": "group_acf_dados-imovel",
+        "wrapper": {
+          "id": "acf-imovel_frase_destaque"
+        },
+        "_name": "imovel_frase_destaque",
+        "_input": "",
+        "_valid": 1,
+        "choices": {
+          "": "",
+          "lancamento": "Lan\u00e7amento",
+          "novo": "Novo",
+          "promocao": "Promo\u00e7\u00e3o",
+          "oportunidade": "Oportunidade",
+          "baixou": "Baixou",
+          "1_locacao": "1\u00aa Loca\u00e7\u00e3o"
+        },
+        "default_value": "",
+        "placeholder": "",
+        "prepend": "",
+        "append": "",
+        "formatting": "none",
+        "maxlength": "",
+        "multiple": 0,
+        "allow_null": 0,
+        "ui": 0,
+        "ajax": 0,
+        "return_format": "value"
+      },
+      "imovel_status": "Dispon\u00edvel",
+      "imovel_dormitorios": "2",
+      "imovel_banheiros": "1",
+      "imovel_garagens": "2",
+      "imovel_area_util": "53.43",
+      "endereco": {
+        "rua": "Avenida Fredolin Wolf, 799",
+        "cidade": "Curitiba, PR",
+        "bairro": "Pilarzinho"
+      },
+      "descricao": "
+      <p>
+      <em>Quer um apartamento t\u00e9rreo, garden e semimobiliado? Conhe\u00e7a este&#8230;<\/em><\/p>\n",
+      "permalink": "http:\/\/www.senzalaimoveis.com.br\/imoveis\/curitiba-pr\/locacao\/residencial\/apartamento\/garden-2-dormitorios-2-garagens-pilarzinho-3036\/",
+      "thumb_image_url": "http:\/\/www.senzalaimoveis.com.br\/wp-content\/uploads\/2016\/07\/cod3036-destaque-328x180.jpg",
+      "full_image_url": "http:\/\/www.senzalaimoveis.com.br\/wp-content\/uploads\/2016\/07\/cod3036-destaque.jpg"
+    },
+    {
+      "ID": "6957",
+      "codigo": "1418",
+      "titulo": "Ed. Lavoisier",
+      "imovel_habilitacao_obj": {
+        "term_id": 79,
+        "name": "Residencial",
+        "slug": "residencial"
+      },
+      "tipo": {
+        "name": "Apartamento",
+        "slug": "apartamento"
+      },
+      "finalidades_imovel": [
+        {
+          "name": "Loca\u00e7\u00e3o",
+          "slug": "locacao"
+        }
+      ],
+      "lat": "-25.4242623",
+      "lng": "-49.27560219999998",
+      "novo": null,
+      "valor_venda": "",
+      "valor_venda_ext": "0",
+      "valor_aluguel": "1.350,00",
+      "valor_aluguel_ext": "1",
+      "frase_destaque": {
+        "ID": 0,
+        "key": "field_imovel_frase_destaque",
+        "label": "Frase de Destaque",
+        "name": "imovel_frase_destaque",
+        "prefix": "acf",
+        "type": "select",
+        "value": "",
+        "menu_order": 32,
+        "instructions": "",
+        "required": 0,
+        "id": "",
+        "class": "",
+        "conditional_logic": 0,
+        "parent": "group_acf_dados-imovel",
+        "wrapper": {
+          "id": "acf-imovel_frase_destaque"
+        },
+        "_name": "imovel_frase_destaque",
+        "_input": "",
+        "_valid": 1,
+        "choices": {
+          "": "",
+          "lancamento": "Lan\u00e7amento",
+          "novo": "Novo",
+          "promocao": "Promo\u00e7\u00e3o",
+          "oportunidade": "Oportunidade",
+          "baixou": "Baixou",
+          "1_locacao": "1\u00aa Loca\u00e7\u00e3o"
+        },
+        "default_value": "",
+        "placeholder": "",
+        "prepend": "",
+        "append": "",
+        "formatting": "none",
+        "maxlength": "",
+        "multiple": 0,
+        "allow_null": 0,
+        "ui": 0,
+        "ajax": 0,
+        "return_format": "value"
+      },
+      "imovel_status": "Dispon\u00edvel",
+      "imovel_dormitorios": "3",
+      "imovel_banheiros": "3",
+      "imovel_garagens": "1",
+      "imovel_area_util": "106.92",
+      "endereco": {
+        "rua": "Rua Paula Gomes, 610",
+        "cidade": "Curitiba, PR",
+        "bairro": "Centro"
+      },
+      "descricao": "
+      <p>
+      <em>Com conforto e pr\u00f3ximo do Shopping Mueller!<\/em><\/p>\n",
+      "permalink": "http:\/\/www.senzalaimoveis.com.br\/imoveis\/curitiba-pr\/locacao\/residencial\/apartamento\/garden-3-dormitorios-1-garagem-centro-1418\/",
+      "thumb_image_url": "http:\/\/www.senzalaimoveis.com.br\/wp-content\/uploads\/2016\/07\/cod1418-destaque-328x180.jpg",
+      "full_image_url": "http:\/\/www.senzalaimoveis.com.br\/wp-content\/uploads\/2016\/07\/cod1418-destaque.jpg"
+    },
+    {
+      "ID": "7213",
+      "codigo": "2498",
+      "titulo": "Ed. Garden Ecoville",
+      "imovel_habilitacao_obj": {
+        "term_id": 79,
+        "name": "Residencial",
+        "slug": "residencial"
+      },
+      "tipo": {
+        "name": "Apartamento",
+        "slug": "apartamento"
+      },
+      "finalidades_imovel": [
+        {
+          "name": "Loca\u00e7\u00e3o",
+          "slug": "locacao"
+        }
+      ],
+      "lat": "-25.44641009999999",
+      "lng": "-49.3553177",
+      "novo": null,
+      "valor_venda": "",
+      "valor_venda_ext": "0",
+      "valor_aluguel": "1.350,00",
+      "valor_aluguel_ext": "1",
+      "frase_destaque": {
+        "ID": 0,
+        "key": "field_imovel_frase_destaque",
+        "label": "Frase de Destaque",
+        "name": "imovel_frase_destaque",
+        "prefix": "acf",
+        "type": "select",
+        "value": "",
+        "menu_order": 32,
+        "instructions": "",
+        "required": 0,
+        "id": "",
+        "class": "",
+        "conditional_logic": 0,
+        "parent": "group_acf_dados-imovel",
+        "wrapper": {
+          "id": "acf-imovel_frase_destaque"
+        },
+        "_name": "imovel_frase_destaque",
+        "_input": "",
+        "_valid": 1,
+        "choices": {
+          "": "",
+          "lancamento": "Lan\u00e7amento",
+          "novo": "Novo",
+          "promocao": "Promo\u00e7\u00e3o",
+          "oportunidade": "Oportunidade",
+          "baixou": "Baixou",
+          "1_locacao": "1\u00aa Loca\u00e7\u00e3o"
+        },
+        "default_value": "",
+        "placeholder": "",
+        "prepend": "",
+        "append": "",
+        "formatting": "none",
+        "maxlength": "",
+        "multiple": 0,
+        "allow_null": 0,
+        "ui": 0,
+        "ajax": 0,
+        "return_format": "value"
+      },
+      "imovel_status": "Dispon\u00edvel",
+      "imovel_dormitorios": "2",
+      "imovel_banheiros": "1",
+      "imovel_garagens": "1",
+      "imovel_area_util": "60.3",
+      "endereco": {
+        "rua": "Rua Professor Pedro Viriato Parigot de Souza, 5285",
+        "cidade": "Curitiba, PR",
+        "bairro": "Ecoville"
+      },
+      "descricao": "
+      <p>
+      <em>Morar no Ecoville e na frente da Universidade Positivo, por que n\u00e3o?<\/em><\/p>\n",
+      "permalink": "http:\/\/www.senzalaimoveis.com.br\/imoveis\/curitiba-pr\/locacao\/residencial\/apartamento\/apartamento-padrao-2-dormitorios-1-garagem-ecoville-2498\/",
+      "thumb_image_url": "http:\/\/www.senzalaimoveis.com.br\/wp-content\/uploads\/2016\/08\/cod2498-destaque-328x180.jpg",
+      "full_image_url": "http:\/\/www.senzalaimoveis.com.br\/wp-content\/uploads\/2016\/08\/cod2498-destaque.jpg"
+    },
+    {
+      "ID": "6828",
+      "codigo": "1380",
+      "titulo": "Sobrado",
+      "imovel_habilitacao_obj": {
+        "term_id": 79,
+        "name": "Residencial",
+        "slug": "residencial"
+      },
+      "tipo": {
+        "name": "Casa",
+        "slug": "casa"
+      },
+      "finalidades_imovel": [
+        {
+          "name": "Loca\u00e7\u00e3o",
+          "slug": "locacao"
+        }
+      ],
+      "lat": "-25.4652682",
+      "lng": "-49.218705",
+      "novo": null,
+      "valor_venda": "",
+      "valor_venda_ext": "0",
+      "valor_aluguel": "1.300,00",
+      "valor_aluguel_ext": "1",
+      "frase_destaque": {
+        "ID": 0,
+        "key": "field_imovel_frase_destaque",
+        "label": "Frase de Destaque",
+        "name": "imovel_frase_destaque",
+        "prefix": "acf",
+        "type": "select",
+        "value": "",
+        "menu_order": 32,
+        "instructions": "",
+        "required": 0,
+        "id": "",
+        "class": "",
+        "conditional_logic": 0,
+        "parent": "group_acf_dados-imovel",
+        "wrapper": {
+          "id": "acf-imovel_frase_destaque"
+        },
+        "_name": "imovel_frase_destaque",
+        "_input": "",
+        "_valid": 1,
+        "choices": {
+          "": "",
+          "lancamento": "Lan\u00e7amento",
+          "novo": "Novo",
+          "promocao": "Promo\u00e7\u00e3o",
+          "oportunidade": "Oportunidade",
+          "baixou": "Baixou",
+          "1_locacao": "1\u00aa Loca\u00e7\u00e3o"
+        },
+        "default_value": "",
+        "placeholder": "",
+        "prepend": "",
+        "append": "",
+        "formatting": "none",
+        "maxlength": "",
+        "multiple": 0,
+        "allow_null": 0,
+        "ui": 0,
+        "ajax": 0,
+        "return_format": "value"
+      },
+      "imovel_status": "Dispon\u00edvel",
+      "imovel_dormitorios": "3",
+      "imovel_banheiros": "2",
+      "imovel_garagens": "1",
+      "imovel_area_util": "112.8",
+      "endereco": {
+        "rua": "Rua Doutor Bronislau Ostoja Roguski, 687",
+        "cidade": "Curitiba, PR",
+        "bairro": "Jardim das Americas"
+      },
+      "descricao": "
+      <p>
+      <em>Belo sobrado em condom\u00ednio fechado!<\/em><\/p>\n",
+      "permalink": "http:\/\/www.senzalaimoveis.com.br\/imoveis\/curitiba-pr\/locacao\/residencial\/casa\/sobrado-3-dormitorios-1-garagem-jardim-das-americas-1380\/",
+      "thumb_image_url": "http:\/\/www.senzalaimoveis.com.br\/wp-content\/uploads\/2016\/07\/cod1380-destaque-328x180.jpg",
+      "full_image_url": "http:\/\/www.senzalaimoveis.com.br\/wp-content\/uploads\/2016\/07\/cod1380-destaque.jpg"
+    },
+    {
+      "ID": "6865",
+      "codigo": "2252",
+      "titulo": "Ed. Studios Batel",
+      "imovel_habilitacao_obj": {
+        "term_id": 79,
+        "name": "Residencial",
+        "slug": "residencial"
+      },
+      "tipo": {
+        "name": "Apartamento",
+        "slug": "apartamento"
+      },
+      "finalidades_imovel": [
+        {
+          "name": "Loca\u00e7\u00e3o",
+          "slug": "locacao"
+        },
+        {
+          "name": "Venda",
+          "slug": "venda"
+        }
+      ],
+      "lat": "-25.4398095",
+      "lng": "-49.27835270000003",
+      "novo": null,
+      "valor_venda": "300.000,00",
+      "valor_venda_ext": "300",
+      "valor_aluguel": "1.300,00",
+      "valor_aluguel_ext": "1",
+      "frase_destaque": {
+        "ID": 0,
+        "key": "field_imovel_frase_destaque",
+        "label": "Frase de Destaque",
+        "name": "imovel_frase_destaque",
+        "prefix": "acf",
+        "type": "select",
+        "value": "",
+        "menu_order": 32,
+        "instructions": "",
+        "required": 0,
+        "id": "",
+        "class": "",
+        "conditional_logic": 0,
+        "parent": "group_acf_dados-imovel",
+        "wrapper": {
+          "id": "acf-imovel_frase_destaque"
+        },
+        "_name": "imovel_frase_destaque",
+        "_input": "",
+        "_valid": 1,
+        "choices": {
+          "": "",
+          "lancamento": "Lan\u00e7amento",
+          "novo": "Novo",
+          "promocao": "Promo\u00e7\u00e3o",
+          "oportunidade": "Oportunidade",
+          "baixou": "Baixou",
+          "1_locacao": "1\u00aa Loca\u00e7\u00e3o"
+        },
+        "default_value": "",
+        "placeholder": "",
+        "prepend": "",
+        "append": "",
+        "formatting": "none",
+        "maxlength": "",
+        "multiple": 0,
+        "allow_null": 0,
+        "ui": 0,
+        "ajax": 0,
+        "return_format": "value"
+      },
+      "imovel_status": "Dispon\u00edvel",
+      "imovel_dormitorios": "1",
+      "imovel_banheiros": "1",
+      "imovel_garagens": "2",
+      "imovel_area_util": "52.25",
+      "endereco": {
+        "rua": "Rua Desembargador Motta, 1590",
+        "cidade": "Curitiba, PR",
+        "bairro": "Batel"
+      },
+      "descricao": "
+      <p>
+      <em>Vai morar sozinha? S\u00f3 o casal? Confira este im\u00f3vel!<\/em><\/p>\n",
+      "permalink": "http:\/\/www.senzalaimoveis.com.br\/imoveis\/curitiba-pr\/locacao\/residencial\/apartamento\/apartamento-padrao-1-dormitorio-2-garagens-batel-2252\/",
+      "thumb_image_url": "http:\/\/www.senzalaimoveis.com.br\/wp-content\/uploads\/2016\/07\/cod2252-destaque-328x180.jpg",
+      "full_image_url": "http:\/\/www.senzalaimoveis.com.br\/wp-content\/uploads\/2016\/07\/cod2252-destaque.jpg"
+    },
+    {
+      "ID": "6924",
+      "codigo": "1917",
+      "titulo": "Ed. Eloi Plombom",
+      "imovel_habilitacao_obj": {
+        "term_id": 79,
+        "name": "Residencial",
+        "slug": "residencial"
+      },
+      "tipo": {
+        "name": "Apartamento",
+        "slug": "apartamento"
+      },
+      "finalidades_imovel": [
+        {
+          "name": "Loca\u00e7\u00e3o",
+          "slug": "locacao"
+        }
+      ],
+      "lat": "-25.4552053",
+      "lng": "-49.305314399999986",
+      "novo": null,
+      "valor_venda": "",
+      "valor_venda_ext": "0",
+      "valor_aluguel": "1.300,00",
+      "valor_aluguel_ext": "1",
+      "frase_destaque": {
+        "ID": 0,
+        "key": "field_imovel_frase_destaque",
+        "label": "Frase de Destaque",
+        "name": "imovel_frase_destaque",
+        "prefix": "acf",
+        "type": "select",
+        "value": "",
+        "menu_order": 32,
+        "instructions": "",
+        "required": 0,
+        "id": "",
+        "class": "",
+        "conditional_logic": 0,
+        "parent": "group_acf_dados-imovel",
+        "wrapper": {
+          "id": "acf-imovel_frase_destaque"
+        },
+        "_name": "imovel_frase_destaque",
+        "_input": "",
+        "_valid": 1,
+        "choices": {
+          "": "",
+          "lancamento": "Lan\u00e7amento",
+          "novo": "Novo",
+          "promocao": "Promo\u00e7\u00e3o",
+          "oportunidade": "Oportunidade",
+          "baixou": "Baixou",
+          "1_locacao": "1\u00aa Loca\u00e7\u00e3o"
+        },
+        "default_value": "",
+        "placeholder": "",
+        "prepend": "",
+        "append": "",
+        "formatting": "none",
+        "maxlength": "",
+        "multiple": 0,
+        "allow_null": 0,
+        "ui": 0,
+        "ajax": 0,
+        "return_format": "value"
+      },
+      "imovel_status": "Dispon\u00edvel",
+      "imovel_dormitorios": "3",
+      "imovel_banheiros": "1",
+      "imovel_garagens": "1",
+      "imovel_area_util": "86.48",
+      "endereco": {
+        "rua": "Rua Coronel Airton Plaisant, 239",
+        "cidade": "Curitiba, PR",
+        "bairro": "Santa Quiteria"
+      },
+      "descricao": "
+      <p>
+      <em>Apartamento de frente e ensolarado para voc\u00ea morar no Santa Quit\u00e9ria!<\/em><\/p>\n",
+      "permalink": "http:\/\/www.senzalaimoveis.com.br\/imoveis\/curitiba-pr\/locacao\/residencial\/apartamento\/apartamento-padrao-3-dormitorios-1-garagem-santa-quiteria-1917\/",
+      "thumb_image_url": "http:\/\/www.senzalaimoveis.com.br\/wp-content\/uploads\/2016\/07\/cod1917-destaque-328x180.jpg",
+      "full_image_url": "http:\/\/www.senzalaimoveis.com.br\/wp-content\/uploads\/2016\/07\/cod1917-destaque.jpg"
+    },
+    {
+      "ID": "7447",
+      "codigo": "740",
+      "titulo": "Ed. Ikebana",
+      "imovel_habilitacao_obj": {
+        "term_id": 79,
+        "name": "Residencial",
+        "slug": "residencial"
+      },
+      "tipo": {
+        "name": "Apartamento",
+        "slug": "apartamento"
+      },
+      "finalidades_imovel": [
+        {
+          "name": "Loca\u00e7\u00e3o",
+          "slug": "locacao"
+        }
+      ],
+      "lat": "-25.4273477",
+      "lng": "-49.268124",
+      "novo": null,
+      "valor_venda": "",
+      "valor_venda_ext": "0",
+      "valor_aluguel": "1.300,00",
+      "valor_aluguel_ext": "1",
+      "frase_destaque": {
+        "ID": 0,
+        "key": "field_imovel_frase_destaque",
+        "label": "Frase de Destaque",
+        "name": "imovel_frase_destaque",
+        "prefix": "acf",
+        "type": "select",
+        "value": "",
+        "menu_order": 32,
+        "instructions": "",
+        "required": 0,
+        "id": "",
+        "class": "",
+        "conditional_logic": 0,
+        "parent": "group_acf_dados-imovel",
+        "wrapper": {
+          "id": "acf-imovel_frase_destaque"
+        },
+        "_name": "imovel_frase_destaque",
+        "_input": "",
+        "_valid": 1,
+        "choices": {
+          "": "",
+          "lancamento": "Lan\u00e7amento",
+          "novo": "Novo",
+          "promocao": "Promo\u00e7\u00e3o",
+          "oportunidade": "Oportunidade",
+          "baixou": "Baixou",
+          "1_locacao": "1\u00aa Loca\u00e7\u00e3o"
+        },
+        "default_value": "",
+        "placeholder": "",
+        "prepend": "",
+        "append": "",
+        "formatting": "none",
+        "maxlength": "",
+        "multiple": 0,
+        "allow_null": 0,
+        "ui": 0,
+        "ajax": 0,
+        "return_format": "value"
+      },
+      "imovel_status": "Dispon\u00edvel",
+      "imovel_dormitorios": "1",
+      "imovel_banheiros": "1",
+      "imovel_garagens": "0",
+      "imovel_area_util": "45.3",
+      "endereco": {
+        "rua": "Rua Treze de Maio, 220",
+        "cidade": "Curitiba, PR",
+        "bairro": "Centro"
+      },
+      "descricao": "
+      <p>
+      <em>Apartamento mobiliado e belamente decorado!<\/em><\/p>\n",
+      "permalink": "http:\/\/www.senzalaimoveis.com.br\/imoveis\/curitiba-pr\/locacao\/residencial\/apartamento\/apartamento-padrao-1-dormitorio-centro-740\/",
+      "thumb_image_url": "http:\/\/www.senzalaimoveis.com.br\/wp-content\/uploads\/2016\/08\/cod740-destaque-328x180.jpg",
+      "full_image_url": "http:\/\/www.senzalaimoveis.com.br\/wp-content\/uploads\/2016\/08\/cod740-destaque.jpg"
+    },
+    {
+      "ID": "914",
+      "codigo": "2990",
+      "titulo": "Ed. Flamboyant",
+      "imovel_habilitacao_obj": {
+        "term_id": 79,
+        "name": "Residencial",
+        "slug": "residencial"
+      },
+      "tipo": {
+        "name": "Apartamento",
+        "slug": "apartamento"
+      },
+      "finalidades_imovel": [
+        {
+          "name": "Loca\u00e7\u00e3o",
+          "slug": "locacao"
+        },
+        {
+          "name": "Venda",
+          "slug": "venda"
+        }
+      ],
+      "lat": "-25.4611222",
+      "lng": "-49.27350179999996",
+      "novo": null,
+      "valor_venda": "298.000,00",
+      "valor_venda_ext": "298",
+      "valor_aluguel": "1.200,00",
+      "valor_aluguel_ext": "1",
+      "frase_destaque": {
+        "ID": 0,
+        "key": "field_imovel_frase_destaque",
+        "label": "Frase de Destaque",
+        "name": "imovel_frase_destaque",
+        "prefix": "acf",
+        "type": "select",
+        "value": "oportunidade",
+        "menu_order": 32,
+        "instructions": "",
+        "required": 0,
+        "id": "",
+        "class": "",
+        "conditional_logic": 0,
+        "parent": "group_acf_dados-imovel",
+        "wrapper": {
+          "id": "acf-imovel_frase_destaque"
+        },
+        "_name": "imovel_frase_destaque",
+        "_input": "",
+        "_valid": 1,
+        "choices": {
+          "": "",
+          "lancamento": "Lan\u00e7amento",
+          "novo": "Novo",
+          "promocao": "Promo\u00e7\u00e3o",
+          "oportunidade": "Oportunidade",
+          "baixou": "Baixou",
+          "1_locacao": "1\u00aa Loca\u00e7\u00e3o"
+        },
+        "default_value": "",
+        "placeholder": "",
+        "prepend": "",
+        "append": "",
+        "formatting": "none",
+        "maxlength": "",
+        "multiple": 0,
+        "allow_null": 0,
+        "ui": 0,
+        "ajax": 0,
+        "return_format": "value"
+      },
+      "imovel_status": "Dispon\u00edvel",
+      "imovel_dormitorios": "3",
+      "imovel_banheiros": "3",
+      "imovel_garagens": "2",
+      "imovel_area_util": "115.5",
+      "endereco": {
+        "rua": "Avenida Presidente Kennedy, 1515",
+        "cidade": "Curitiba, PR",
+        "bairro": "Rebou\u00e7as"
+      },
+      "descricao": "
+      <p>
+      <em>Apartamento para voc\u00ea e sua fam\u00edlia com pe\u00e7as amplas e duas vagas de garagem!<\/em><\/p>\n",
+      "permalink": "http:\/\/www.senzalaimoveis.com.br\/imoveis\/curitiba-pr\/locacao\/residencial\/apartamento\/apartamento-padrao-3-dormitorios-2-garagens-reboucas-2990\/",
+      "thumb_image_url": "http:\/\/www.senzalaimoveis.com.br\/wp-content\/uploads\/2016\/04\/cod2990-destaque-328x168.jpg",
+      "full_image_url": "http:\/\/www.senzalaimoveis.com.br\/wp-content\/uploads\/2016\/04\/cod2990-destaque.jpg"
+    },
+    {
+      "ID": "1791",
+      "codigo": "3096",
+      "titulo": "Ed. Rossi 145",
+      "imovel_habilitacao_obj": {
+        "term_id": 79,
+        "name": "Residencial",
+        "slug": "residencial"
+      },
+      "tipo": {
+        "name": "Apartamento",
+        "slug": "apartamento"
+      },
+      "finalidades_imovel": [
+        {
+          "name": "Loca\u00e7\u00e3o",
+          "slug": "locacao"
+        }
+      ],
+      "lat": "-25.4376828",
+      "lng": "-49.2370598",
+      "novo": null,
+      "valor_venda": "",
+      "valor_venda_ext": "0",
+      "valor_aluguel": "1.150,00",
+      "valor_aluguel_ext": "1",
+      "frase_destaque": {
+        "ID": 0,
+        "key": "field_imovel_frase_destaque",
+        "label": "Frase de Destaque",
+        "name": "imovel_frase_destaque",
+        "prefix": "acf",
+        "type": "select",
+        "value": "",
+        "menu_order": 32,
+        "instructions": "",
+        "required": 0,
+        "id": "",
+        "class": "",
+        "conditional_logic": 0,
+        "parent": "group_acf_dados-imovel",
+        "wrapper": {
+          "id": "acf-imovel_frase_destaque"
+        },
+        "_name": "imovel_frase_destaque",
+        "_input": "",
+        "_valid": 1,
+        "choices": {
+          "": "",
+          "lancamento": "Lan\u00e7amento",
+          "novo": "Novo",
+          "promocao": "Promo\u00e7\u00e3o",
+          "oportunidade": "Oportunidade",
+          "baixou": "Baixou",
+          "1_locacao": "1\u00aa Loca\u00e7\u00e3o"
+        },
+        "default_value": "",
+        "placeholder": "",
+        "prepend": "",
+        "append": "",
+        "formatting": "none",
+        "maxlength": "",
+        "multiple": 0,
+        "allow_null": 0,
+        "ui": 0,
+        "ajax": 0,
+        "return_format": "value"
+      },
+      "imovel_status": "Dispon\u00edvel",
+      "imovel_dormitorios": "1",
+      "imovel_banheiros": "1",
+      "imovel_garagens": "1",
+      "imovel_area_util": "31",
+      "endereco": {
+        "rua": "Rua Governador Agamenon Magalh\u00e3es, 145",
+        "cidade": "Curitiba, PR",
+        "bairro": "Cristo Rei"
+      },
+      "descricao": "
+      <p>
+      <em>Se apaixone por esse loft mobiliado!\u00a0<\/em><\/p>\n",
+      "permalink": "http:\/\/www.senzalaimoveis.com.br\/imoveis\/curitiba-pr\/locacao\/residencial\/apartamento\/kitnet-1-dormitorio-1-garagem-cristo-rei-3096\/",
+      "thumb_image_url": "http:\/\/www.senzalaimoveis.com.br\/wp-content\/uploads\/2016\/04\/cod3096-destaque-328x168.jpg",
+      "full_image_url": "http:\/\/www.senzalaimoveis.com.br\/wp-content\/uploads\/2016\/04\/cod3096-destaque.jpg"
+    },
+    {
+      "ID": "5320",
+      "codigo": "3129",
+      "titulo": "Parque das Pedras II",
+      "imovel_habilitacao_obj": {
+        "term_id": 79,
+        "name": "Residencial",
+        "slug": "residencial"
+      },
+      "tipo": {
+        "name": "Apartamento",
+        "slug": "apartamento"
+      },
+      "finalidades_imovel": [
+        {
+          "name": "Loca\u00e7\u00e3o",
+          "slug": "locacao"
+        }
+      ],
+      "lat": "-25.4078345",
+      "lng": "-49.2950568",
+      "novo": null,
+      "valor_venda": "",
+      "valor_venda_ext": "0",
+      "valor_aluguel": "1.150,00",
+      "valor_aluguel_ext": "1",
+      "frase_destaque": {
+        "ID": 0,
+        "key": "field_imovel_frase_destaque",
+        "label": "Frase de Destaque",
+        "name": "imovel_frase_destaque",
+        "prefix": "acf",
+        "type": "select",
+        "value": "",
+        "menu_order": 32,
+        "instructions": "",
+        "required": 0,
+        "id": "",
+        "class": "",
+        "conditional_logic": 0,
+        "parent": "group_acf_dados-imovel",
+        "wrapper": {
+          "id": "acf-imovel_frase_destaque"
+        },
+        "_name": "imovel_frase_destaque",
+        "_input": "",
+        "_valid": 1,
+        "choices": {
+          "": "",
+          "lancamento": "Lan\u00e7amento",
+          "novo": "Novo",
+          "promocao": "Promo\u00e7\u00e3o",
+          "oportunidade": "Oportunidade",
+          "baixou": "Baixou",
+          "1_locacao": "1\u00aa Loca\u00e7\u00e3o"
+        },
+        "default_value": "",
+        "placeholder": "",
+        "prepend": "",
+        "append": "",
+        "formatting": "none",
+        "maxlength": "",
+        "multiple": 0,
+        "allow_null": 0,
+        "ui": 0,
+        "ajax": 0,
+        "return_format": "value"
+      },
+      "imovel_status": "Dispon\u00edvel",
+      "imovel_dormitorios": "2",
+      "imovel_banheiros": "1",
+      "imovel_garagens": "1",
+      "imovel_area_util": "56",
+      "endereco": {
+        "rua": "Rua Major Virgolino Esmanhotto, 260",
+        "cidade": "Curitiba, PR",
+        "bairro": "Merc\u00eas"
+      },
+      "descricao": "
+      <p>
+      <em>Apartamento mobiliado! Confira o v\u00eddeo e se apaixone&#8230;<\/em><\/p>\n",
+      "permalink": "http:\/\/www.senzalaimoveis.com.br\/imoveis\/curitiba-pr\/locacao\/residencial\/apartamento\/apartamento-padrao-2-dormitorios-1-garagem-merces-3129\/",
+      "thumb_image_url": "http:\/\/www.senzalaimoveis.com.br\/wp-content\/uploads\/2016\/06\/cod3129-destaque-328x180.jpg",
+      "full_image_url": "http:\/\/www.senzalaimoveis.com.br\/wp-content\/uploads\/2016\/06\/cod3129-destaque.jpg"
+    },
+    {
+      "ID": "6901",
+      "codigo": "2476",
+      "titulo": "Ed. Guaruj\u00e1",
+      "imovel_habilitacao_obj": {
+        "term_id": 79,
+        "name": "Residencial",
+        "slug": "residencial"
+      },
+      "tipo": {
+        "name": "Apartamento",
+        "slug": "apartamento"
+      },
+      "finalidades_imovel": [
+        {
+          "name": "Loca\u00e7\u00e3o",
+          "slug": "locacao"
+        }
+      ],
+      "lat": "-25.4372071",
+      "lng": "-49.23808180000003",
+      "novo": null,
+      "valor_venda": "",
+      "valor_venda_ext": "0",
+      "valor_aluguel": "1.150,00",
+      "valor_aluguel_ext": "1",
+      "frase_destaque": {
+        "ID": 0,
+        "key": "field_imovel_frase_destaque",
+        "label": "Frase de Destaque",
+        "name": "imovel_frase_destaque",
+        "prefix": "acf",
+        "type": "select",
+        "value": "",
+        "menu_order": 32,
+        "instructions": "",
+        "required": 0,
+        "id": "",
+        "class": "",
+        "conditional_logic": 0,
+        "parent": "group_acf_dados-imovel",
+        "wrapper": {
+          "id": "acf-imovel_frase_destaque"
+        },
+        "_name": "imovel_frase_destaque",
+        "_input": "",
+        "_valid": 1,
+        "choices": {
+          "": "",
+          "lancamento": "Lan\u00e7amento",
+          "novo": "Novo",
+          "promocao": "Promo\u00e7\u00e3o",
+          "oportunidade": "Oportunidade",
+          "baixou": "Baixou",
+          "1_locacao": "1\u00aa Loca\u00e7\u00e3o"
+        },
+        "default_value": "",
+        "placeholder": "",
+        "prepend": "",
+        "append": "",
+        "formatting": "none",
+        "maxlength": "",
+        "multiple": 0,
+        "allow_null": 0,
+        "ui": 0,
+        "ajax": 0,
+        "return_format": "value"
+      },
+      "imovel_status": "Dispon\u00edvel",
+      "imovel_dormitorios": "3",
+      "imovel_banheiros": "2",
+      "imovel_garagens": "1",
+      "imovel_area_util": "78.16",
+      "endereco": {
+        "rua": "Rua Oyapock, 49",
+        "cidade": "Curitiba, PR",
+        "bairro": "Cristo Rei"
+      },
+      "descricao": "
+      <p>
+      <em>More pertinho do Jardim Bot\u00e2nico!<\/em><\/p>\n",
+      "permalink": "http:\/\/www.senzalaimoveis.com.br\/imoveis\/curitiba-pr\/locacao\/residencial\/apartamento\/apartamento-padrao-3-dormitorios-1-garagem-cristo-rei-2476\/",
+      "thumb_image_url": "http:\/\/www.senzalaimoveis.com.br\/wp-content\/uploads\/2016\/07\/cod2476-destaque-328x180.jpg",
+      "full_image_url": "http:\/\/www.senzalaimoveis.com.br\/wp-content\/uploads\/2016\/07\/cod2476-destaque.jpg"
+    },
+    {
+      "ID": "775",
+      "codigo": "2956",
+      "titulo": "Ed. Felicit\u00e1",
+      "imovel_habilitacao_obj": {
+        "term_id": 79,
+        "name": "Residencial",
+        "slug": "residencial"
+      },
+      "tipo": {
+        "name": "Apartamento",
+        "slug": "apartamento"
+      },
+      "finalidades_imovel": [
+        {
+          "name": "Loca\u00e7\u00e3o",
+          "slug": "locacao"
+        },
+        {
+          "name": "Venda",
+          "slug": "venda"
+        }
+      ],
+      "lat": "-25.4889683",
+      "lng": "-49.2898993",
+      "novo": null,
+      "valor_venda": "340.000,00",
+      "valor_venda_ext": "340",
+      "valor_aluguel": "1.100,00",
+      "valor_aluguel_ext": "1",
+      "frase_destaque": {
+        "ID": 0,
+        "key": "field_imovel_frase_destaque",
+        "label": "Frase de Destaque",
+        "name": "imovel_frase_destaque",
+        "prefix": "acf",
+        "type": "select",
+        "value": "novo",
+        "menu_order": 32,
+        "instructions": "",
+        "required": 0,
+        "id": "",
+        "class": "",
+        "conditional_logic": 0,
+        "parent": "group_acf_dados-imovel",
+        "wrapper": {
+          "id": "acf-imovel_frase_destaque"
+        },
+        "_name": "imovel_frase_destaque",
+        "_input": "",
+        "_valid": 1,
+        "choices": {
+          "": "",
+          "lancamento": "Lan\u00e7amento",
+          "novo": "Novo",
+          "promocao": "Promo\u00e7\u00e3o",
+          "oportunidade": "Oportunidade",
+          "baixou": "Baixou",
+          "1_locacao": "1\u00aa Loca\u00e7\u00e3o"
+        },
+        "default_value": "",
+        "placeholder": "",
+        "prepend": "",
+        "append": "",
+        "formatting": "none",
+        "maxlength": "",
+        "multiple": 0,
+        "allow_null": 0,
+        "ui": 0,
+        "ajax": 0,
+        "return_format": "value"
+      },
+      "imovel_status": "Dispon\u00edvel",
+      "imovel_dormitorios": "2",
+      "imovel_banheiros": "1",
+      "imovel_garagens": "1",
+      "imovel_area_util": "73.5",
+      "endereco": {
+        "rua": "Rua Maria Trevisan Tortato, 341",
+        "cidade": "Curitiba, PR",
+        "bairro": "Novo Mundo"
+      },
+      "descricao": "
+      <p>
+      <em>Conhe\u00e7a este apartamento novo de 02 dormit\u00f3rios!<\/em><\/p>\n",
+      "permalink": "http:\/\/www.senzalaimoveis.com.br\/imoveis\/curitiba-pr\/locacao\/residencial\/apartamento\/apartamento-padrao-2-dormitorios-1-garagem-novo-mundo-2956\/",
+      "thumb_image_url": "http:\/\/www.senzalaimoveis.com.br\/wp-content\/uploads\/2016\/04\/cod2956-destaque-328x168.jpg",
+      "full_image_url": "http:\/\/www.senzalaimoveis.com.br\/wp-content\/uploads\/2016\/04\/cod2956-destaque.jpg"
+    },
+    {
+      "ID": "6746",
+      "codigo": "481",
+      "titulo": "Ed. Eugene Delacroix",
+      "imovel_habilitacao_obj": {
+        "term_id": 79,
+        "name": "Residencial",
+        "slug": "residencial"
+      },
+      "tipo": {
+        "name": "Apartamento",
+        "slug": "apartamento"
+      },
+      "finalidades_imovel": [
+        {
+          "name": "Loca\u00e7\u00e3o",
+          "slug": "locacao"
+        }
+      ],
+      "lat": "-25.4189435",
+      "lng": "-49.268092499999966",
+      "novo": null,
+      "valor_venda": "",
+      "valor_venda_ext": "0",
+      "valor_aluguel": "1.100,00",
+      "valor_aluguel_ext": "1",
+      "frase_destaque": {
+        "ID": 0,
+        "key": "field_imovel_frase_destaque",
+        "label": "Frase de Destaque",
+        "name": "imovel_frase_destaque",
+        "prefix": "acf",
+        "type": "select",
+        "value": "",
+        "menu_order": 32,
+        "instructions": "",
+        "required": 0,
+        "id": "",
+        "class": "",
+        "conditional_logic": 0,
+        "parent": "group_acf_dados-imovel",
+        "wrapper": {
+          "id": "acf-imovel_frase_destaque"
+        },
+        "_name": "imovel_frase_destaque",
+        "_input": "",
+        "_valid": 1,
+        "choices": {
+          "": "",
+          "lancamento": "Lan\u00e7amento",
+          "novo": "Novo",
+          "promocao": "Promo\u00e7\u00e3o",
+          "oportunidade": "Oportunidade",
+          "baixou": "Baixou",
+          "1_locacao": "1\u00aa Loca\u00e7\u00e3o"
+        },
+        "default_value": "",
+        "placeholder": "",
+        "prepend": "",
+        "append": "",
+        "formatting": "none",
+        "maxlength": "",
+        "multiple": 0,
+        "allow_null": 0,
+        "ui": 0,
+        "ajax": 0,
+        "return_format": "value"
+      },
+      "imovel_status": "Dispon\u00edvel",
+      "imovel_dormitorios": "2",
+      "imovel_banheiros": "1",
+      "imovel_garagens": "1",
+      "imovel_area_util": "59.5",
+      "endereco": {
+        "rua": "Rua Comendador Fontana, 50",
+        "cidade": "Curitiba, PR",
+        "bairro": "Centro C\u00edvico"
+      },
+      "descricao": "
+      <p>
+      <em>Trabalha ou vai trabalhar pr\u00f3ximo do Shopping Mueller ou Prefeitura Municipal de Curitiba? N\u00e3o perca este apartamento. Confira o v\u00eddeo!<\/em><\/p>\n",
+      "permalink": "http:\/\/www.senzalaimoveis.com.br\/imoveis\/curitiba-pr\/locacao\/residencial\/apartamento\/apartamento-padrao-2-dormitorios-1-garagem-centro-civico-481\/",
+      "thumb_image_url": "http:\/\/www.senzalaimoveis.com.br\/wp-content\/uploads\/2016\/07\/cod481-destaque-328x180.jpg",
+      "full_image_url": "http:\/\/www.senzalaimoveis.com.br\/wp-content\/uploads\/2016\/07\/cod481-destaque.jpg"
+    },
+    {
+      "ID": "7175",
+      "codigo": "3148",
+      "titulo": "Ed. Via Appia",
+      "imovel_habilitacao_obj": {
+        "term_id": 79,
+        "name": "Residencial",
+        "slug": "residencial"
+      },
+      "tipo": {
+        "name": "Apartamento",
+        "slug": "apartamento"
+      },
+      "finalidades_imovel": [
+        {
+          "name": "Loca\u00e7\u00e3o",
+          "slug": "locacao"
+        }
+      ],
+      "lat": "-25.4489009",
+      "lng": "-49.28377119999999",
+      "novo": null,
+      "valor_venda": "",
+      "valor_venda_ext": "0",
+      "valor_aluguel": "1.100,00",
+      "valor_aluguel_ext": "1",
+      "frase_destaque": {
+        "ID": 0,
+        "key": "field_imovel_frase_destaque",
+        "label": "Frase de Destaque",
+        "name": "imovel_frase_destaque",
+        "prefix": "acf",
+        "type": "select",
+        "value": "oportunidade",
+        "menu_order": 32,
+        "instructions": "",
+        "required": 0,
+        "id": "",
+        "class": "",
+        "conditional_logic": 0,
+        "parent": "group_acf_dados-imovel",
+        "wrapper": {
+          "id": "acf-imovel_frase_destaque"
+        },
+        "_name": "imovel_frase_destaque",
+        "_input": "",
+        "_valid": 1,
+        "choices": {
+          "": "",
+          "lancamento": "Lan\u00e7amento",
+          "novo": "Novo",
+          "promocao": "Promo\u00e7\u00e3o",
+          "oportunidade": "Oportunidade",
+          "baixou": "Baixou",
+          "1_locacao": "1\u00aa Loca\u00e7\u00e3o"
+        },
+        "default_value": "",
+        "placeholder": "",
+        "prepend": "",
+        "append": "",
+        "formatting": "none",
+        "maxlength": "",
+        "multiple": 0,
+        "allow_null": 0,
+        "ui": 0,
+        "ajax": 0,
+        "return_format": "value"
+      },
+      "imovel_status": "Dispon\u00edvel",
+      "imovel_dormitorios": "2",
+      "imovel_banheiros": "1",
+      "imovel_garagens": "1",
+      "imovel_area_util": "40.19",
+      "endereco": {
+        "rua": "Rua Silveira Peixoto, 497",
+        "cidade": "Curitiba, PR",
+        "bairro": "\u00c1gua Verde"
+      },
+      "descricao": "
+      <p>
+      <em>Um pr\u00e1tico apartamento pr\u00f3ximo de restaurantes, bancos, farm\u00e1cias e demais com\u00e9rcios! Confira&#8230;<\/em><\/p>\n",
+      "permalink": "http:\/\/www.senzalaimoveis.com.br\/imoveis\/curitiba-pr\/locacao\/residencial\/apartamento\/apartamento-padrao-2-dormitorios-1-garagem-agua-verde-3148\/",
+      "thumb_image_url": "http:\/\/www.senzalaimoveis.com.br\/wp-content\/uploads\/2016\/08\/cod3148-destaque-328x180.jpg",
+      "full_image_url": "http:\/\/www.senzalaimoveis.com.br\/wp-content\/uploads\/2016\/08\/cod3148-destaque.jpg"
+    },
+    {
+      "ID": "8975",
+      "codigo": "2524",
+      "titulo": "Cond. Ed. Parque Residencial Ah\u00fa",
+      "imovel_habilitacao_obj": {
+        "term_id": 79,
+        "name": "Residencial",
+        "slug": "residencial"
+      },
+      "tipo": {
+        "name": "Apartamento",
+        "slug": "apartamento"
+      },
+      "finalidades_imovel": [
+        {
+          "name": "Loca\u00e7\u00e3o",
+          "slug": "locacao"
+        },
+        {
+          "name": "Venda",
+          "slug": "venda"
+        }
+      ],
+      "lat": "-25.4012826",
+      "lng": "-49.2571356",
+      "novo": null,
+      "valor_venda": "285.000,00",
+      "valor_venda_ext": "285",
+      "valor_aluguel": "1.080,00",
+      "valor_aluguel_ext": "1",
+      "frase_destaque": {
+        "ID": 0,
+        "key": "field_imovel_frase_destaque",
+        "label": "Frase de Destaque",
+        "name": "imovel_frase_destaque",
+        "prefix": "acf",
+        "type": "select",
+        "value": "",
+        "menu_order": 32,
+        "instructions": "",
+        "required": 0,
+        "id": "",
+        "class": "",
+        "conditional_logic": 0,
+        "parent": "group_acf_dados-imovel",
+        "wrapper": {
+          "id": "acf-imovel_frase_destaque"
+        },
+        "_name": "imovel_frase_destaque",
+        "_input": "",
+        "_valid": 1,
+        "choices": {
+          "": "",
+          "lancamento": "Lan\u00e7amento",
+          "novo": "Novo",
+          "promocao": "Promo\u00e7\u00e3o",
+          "oportunidade": "Oportunidade",
+          "baixou": "Baixou",
+          "1_locacao": "1\u00aa Loca\u00e7\u00e3o"
+        },
+        "default_value": "",
+        "placeholder": "",
+        "prepend": "",
+        "append": "",
+        "formatting": "none",
+        "maxlength": "",
+        "multiple": 0,
+        "allow_null": 0,
+        "ui": 0,
+        "ajax": 0,
+        "return_format": "value"
+      },
+      "imovel_status": "Dispon\u00edvel",
+      "imovel_dormitorios": "3",
+      "imovel_banheiros": "2",
+      "imovel_garagens": "1",
+      "imovel_area_util": "61.1",
+      "endereco": {
+        "rua": "Rua dos Funcion\u00e1rios, 144",
+        "cidade": "Curitiba, PR",
+        "bairro": "Cabral"
+      },
+      "descricao": "
+      <p>
+      <em>Conhe\u00e7a esse apartamento e suas op\u00e7\u00f5es de lazer&#8230;<\/em><\/p>\n",
+      "permalink": "http:\/\/www.senzalaimoveis.com.br\/imoveis\/curitiba-\/locacao\/residencial\/apartamento\/apartamento-padrao-3-dormitorios-1-garagem-cabral-2524\/",
+      "thumb_image_url": "http:\/\/www.senzalaimoveis.com.br\/wp-content\/uploads\/2016\/10\/cod2524-destaque-328x180.jpg",
+      "full_image_url": "http:\/\/www.senzalaimoveis.com.br\/wp-content\/uploads\/2016\/10\/cod2524-destaque.jpg"
+    },
+    {
+      "ID": "1488",
+      "codigo": "2009",
+      "titulo": "Ed. BMS Plaza",
+      "imovel_habilitacao_obj": {
+        "term_id": 79,
+        "name": "Residencial",
+        "slug": "residencial"
+      },
+      "tipo": {
+        "name": "Apartamento",
+        "slug": "apartamento"
+      },
+      "finalidades_imovel": [
+        {
+          "name": "Loca\u00e7\u00e3o",
+          "slug": "locacao"
+        }
+      ],
+      "lat": "-25.4354441",
+      "lng": "-49.260089300000004",
+      "novo": null,
+      "valor_venda": "",
+      "valor_venda_ext": "0",
+      "valor_aluguel": "1.050,00",
+      "valor_aluguel_ext": "1",
+      "frase_destaque": {
+        "ID": 0,
+        "key": "field_imovel_frase_destaque",
+        "label": "Frase de Destaque",
+        "name": "imovel_frase_destaque",
+        "prefix": "acf",
+        "type": "select",
+        "value": "",
+        "menu_order": 32,
+        "instructions": "",
+        "required": 0,
+        "id": "",
+        "class": "",
+        "conditional_logic": 0,
+        "parent": "group_acf_dados-imovel",
+        "wrapper": {
+          "id": "acf-imovel_frase_destaque"
+        },
+        "_name": "imovel_frase_destaque",
+        "_input": "",
+        "_valid": 1,
+        "choices": {
+          "": "",
+          "lancamento": "Lan\u00e7amento",
+          "novo": "Novo",
+          "promocao": "Promo\u00e7\u00e3o",
+          "oportunidade": "Oportunidade",
+          "baixou": "Baixou",
+          "1_locacao": "1\u00aa Loca\u00e7\u00e3o"
+        },
+        "default_value": "",
+        "placeholder": "",
+        "prepend": "",
+        "append": "",
+        "formatting": "none",
+        "maxlength": "",
+        "multiple": 0,
+        "allow_null": 0,
+        "ui": 0,
+        "ajax": 0,
+        "return_format": "value"
+      },
+      "imovel_status": "Dispon\u00edvel",
+      "imovel_dormitorios": "1",
+      "imovel_banheiros": "1",
+      "imovel_garagens": "1",
+      "imovel_area_util": "42",
+      "endereco": {
+        "rua": "Avenida Presidente Affonso Camargo, 633",
+        "cidade": "Curitiba, PR",
+        "bairro": "Cristo Rei"
+      },
+      "descricao": "
+      <p>
+      <em>Loft mobiliado prontinho pra voc\u00ea morar!<\/em><\/p>\n",
+      "permalink": "http:\/\/www.senzalaimoveis.com.br\/imoveis\/curitiba-pr\/locacao\/residencial\/apartamento\/kitnet-1-dormitorio-1-garagem-cristo-rei-2009\/",
+      "thumb_image_url": "http:\/\/www.senzalaimoveis.com.br\/wp-content\/uploads\/2016\/05\/cod2009-destaque-328x180.jpg",
+      "full_image_url": "http:\/\/www.senzalaimoveis.com.br\/wp-content\/uploads\/2016\/05\/cod2009-destaque.jpg"
+    },
+    {
+      "ID": "7894",
+      "codigo": "2113",
+      "titulo": "Ed. BMS Plaza",
+      "imovel_habilitacao_obj": {
+        "term_id": 79,
+        "name": "Residencial",
+        "slug": "residencial"
+      },
+      "tipo": {
+        "name": "Apartamento",
+        "slug": "apartamento"
+      },
+      "finalidades_imovel": [
+        {
+          "name": "Loca\u00e7\u00e3o",
+          "slug": "locacao"
+        }
+      ],
+      "lat": "-25.4352575",
+      "lng": "-49.2537741",
+      "novo": null,
+      "valor_venda": "",
+      "valor_venda_ext": "0",
+      "valor_aluguel": "1.050,00",
+      "valor_aluguel_ext": "1",
+      "frase_destaque": {
+        "ID": 0,
+        "key": "field_imovel_frase_destaque",
+        "label": "Frase de Destaque",
+        "name": "imovel_frase_destaque",
+        "prefix": "acf",
+        "type": "select",
+        "value": "",
+        "menu_order": 32,
+        "instructions": "",
+        "required": 0,
+        "id": "",
+        "class": "",
+        "conditional_logic": 0,
+        "parent": "group_acf_dados-imovel",
+        "wrapper": {
+          "id": "acf-imovel_frase_destaque"
+        },
+        "_name": "imovel_frase_destaque",
+        "_input": "",
+        "_valid": 1,
+        "choices": {
+          "": "",
+          "lancamento": "Lan\u00e7amento",
+          "novo": "Novo",
+          "promocao": "Promo\u00e7\u00e3o",
+          "oportunidade": "Oportunidade",
+          "baixou": "Baixou",
+          "1_locacao": "1\u00aa Loca\u00e7\u00e3o"
+        },
+        "default_value": "",
+        "placeholder": "",
+        "prepend": "",
+        "append": "",
+        "formatting": "none",
+        "maxlength": "",
+        "multiple": 0,
+        "allow_null": 0,
+        "ui": 0,
+        "ajax": 0,
+        "return_format": "value"
+      },
+      "imovel_status": "Dispon\u00edvel",
+      "imovel_dormitorios": "1",
+      "imovel_banheiros": "1",
+      "imovel_garagens": "1",
+      "imovel_area_util": "44",
+      "endereco": {
+        "rua": "Avenida Presidente Affonso Camargo, 633",
+        "cidade": "Curitiba, PR",
+        "bairro": "Cristo Rei"
+      },
+      "descricao": "
+      <p>
+      <em>Um apartamento pr\u00e1tico e semi-mobiliado para voc\u00ea!<\/em><\/p>\n",
+      "permalink": "http:\/\/www.senzalaimoveis.com.br\/imoveis\/curitiba-\/locacao\/residencial\/apartamento\/kitnet-1-dormitorio-1-garagem-cristo-rei-2113\/",
+      "thumb_image_url": "http:\/\/www.senzalaimoveis.com.br\/wp-content\/uploads\/2016\/09\/cod2113-destaque-328x180.jpg",
+      "full_image_url": "http:\/\/www.senzalaimoveis.com.br\/wp-content\/uploads\/2016\/09\/cod2113-destaque.jpg"
+    },
+    {
+      "ID": "5131",
+      "codigo": "2370",
+      "titulo": "Ed. Conj. Res. Ravel",
+      "imovel_habilitacao_obj": {
+        "term_id": 79,
+        "name": "Residencial",
+        "slug": "residencial"
+      },
+      "tipo": {
+        "name": "Apartamento",
+        "slug": "apartamento"
+      },
+      "finalidades_imovel": [
+        {
+          "name": "Loca\u00e7\u00e3o",
+          "slug": "locacao"
+        }
+      ],
+      "lat": "-25.4014775",
+      "lng": "-49.25841409999998",
+      "novo": null,
+      "valor_venda": "",
+      "valor_venda_ext": "0",
+      "valor_aluguel": "1.000,00",
+      "valor_aluguel_ext": "1",
+      "frase_destaque": {
+        "ID": 0,
+        "key": "field_imovel_frase_destaque",
+        "label": "Frase de Destaque",
+        "name": "imovel_frase_destaque",
+        "prefix": "acf",
+        "type": "select",
+        "value": "",
+        "menu_order": 32,
+        "instructions": "",
+        "required": 0,
+        "id": "",
+        "class": "",
+        "conditional_logic": 0,
+        "parent": "group_acf_dados-imovel",
+        "wrapper": {
+          "id": "acf-imovel_frase_destaque"
+        },
+        "_name": "imovel_frase_destaque",
+        "_input": "",
+        "_valid": 1,
+        "choices": {
+          "": "",
+          "lancamento": "Lan\u00e7amento",
+          "novo": "Novo",
+          "promocao": "Promo\u00e7\u00e3o",
+          "oportunidade": "Oportunidade",
+          "baixou": "Baixou",
+          "1_locacao": "1\u00aa Loca\u00e7\u00e3o"
+        },
+        "default_value": "",
+        "placeholder": "",
+        "prepend": "",
+        "append": "",
+        "formatting": "none",
+        "maxlength": "",
+        "multiple": 0,
+        "allow_null": 0,
+        "ui": 0,
+        "ajax": 0,
+        "return_format": "value"
+      },
+      "imovel_status": "Dispon\u00edvel",
+      "imovel_dormitorios": "3",
+      "imovel_banheiros": "2",
+      "imovel_garagens": "1",
+      "imovel_area_util": "60.55",
+      "endereco": {
+        "rua": "Avenida Anita Garibaldi, 1204",
+        "cidade": "Curitiba, PR",
+        "bairro": "Ah\u00fa"
+      },
+      "descricao": "
+      <p>
+      <em>Seu conforto no Ah\u00fa!<\/em><\/p>\n",
+      "permalink": "http:\/\/www.senzalaimoveis.com.br\/imoveis\/curitiba-pr\/locacao\/residencial\/apartamento\/apartamento-padrao-3-dormitorios-1-garagem-ahu-2370\/",
+      "thumb_image_url": "http:\/\/www.senzalaimoveis.com.br\/wp-content\/uploads\/2016\/06\/cod2370-destaque-328x180.jpg",
+      "full_image_url": "http:\/\/www.senzalaimoveis.com.br\/wp-content\/uploads\/2016\/06\/cod2370-destaque.jpg"
+    },
+    {
+      "ID": "1534",
+      "codigo": "2697",
+      "titulo": "Ed. Galeria Tijucas",
+      "imovel_habilitacao_obj": {
+        "term_id": 79,
+        "name": "Residencial",
+        "slug": "residencial"
+      },
+      "tipo": {
+        "name": "Apartamento",
+        "slug": "apartamento"
+      },
+      "finalidades_imovel": [
+        {
+          "name": "Loca\u00e7\u00e3o",
+          "slug": "locacao"
+        }
+      ],
+      "lat": "-25.4331168",
+      "lng": "-49.2753877",
+      "novo": null,
+      "valor_venda": "",
+      "valor_venda_ext": "0",
+      "valor_aluguel": "950,00",
+      "valor_aluguel_ext": "950",
+      "frase_destaque": {
+        "ID": 0,
+        "key": "field_imovel_frase_destaque",
+        "label": "Frase de Destaque",
+        "name": "imovel_frase_destaque",
+        "prefix": "acf",
+        "type": "select",
+        "value": "",
+        "menu_order": 32,
+        "instructions": "",
+        "required": 0,
+        "id": "",
+        "class": "",
+        "conditional_logic": 0,
+        "parent": "group_acf_dados-imovel",
+        "wrapper": {
+          "id": "acf-imovel_frase_destaque"
+        },
+        "_name": "imovel_frase_destaque",
+        "_input": "",
+        "_valid": 1,
+        "choices": {
+          "": "",
+          "lancamento": "Lan\u00e7amento",
+          "novo": "Novo",
+          "promocao": "Promo\u00e7\u00e3o",
+          "oportunidade": "Oportunidade",
+          "baixou": "Baixou",
+          "1_locacao": "1\u00aa Loca\u00e7\u00e3o"
+        },
+        "default_value": "",
+        "placeholder": "",
+        "prepend": "",
+        "append": "",
+        "formatting": "none",
+        "maxlength": "",
+        "multiple": 0,
+        "allow_null": 0,
+        "ui": 0,
+        "ajax": 0,
+        "return_format": "value"
+      },
+      "imovel_status": "Dispon\u00edvel",
+      "imovel_dormitorios": "2",
+      "imovel_banheiros": "1",
+      "imovel_garagens": "0",
+      "imovel_area_util": "64",
+      "endereco": {
+        "rua": "Avenida Luiz Xavier, 68",
+        "cidade": "Curitiba, PR",
+        "bairro": "Centro"
+      },
+      "descricao": "
+      <p>
+      <em>Que tal morar de frente para a Rua XV e com uma bela vista?<\/em><\/p>\n",
+      "permalink": "http:\/\/www.senzalaimoveis.com.br\/imoveis\/curitiba-\/locacao\/residencial\/apartamento\/apartamento-padrao-2-dormitorios-centro-2697\/",
+      "thumb_image_url": "http:\/\/www.senzalaimoveis.com.br\/wp-content\/uploads\/2016\/06\/cod2697-destaque-328x180.jpg",
+      "full_image_url": "http:\/\/www.senzalaimoveis.com.br\/wp-content\/uploads\/2016\/06\/cod2697-destaque.jpg"
+    },
+    {
+      "ID": "6793",
+      "codigo": "1891",
+      "titulo": "Centro Habitacional Vila Romana",
+      "imovel_habilitacao_obj": {
+        "term_id": 79,
+        "name": "Residencial",
+        "slug": "residencial"
+      },
+      "tipo": {
+        "name": "Apartamento",
+        "slug": "apartamento"
+      },
+      "finalidades_imovel": [
+        {
+          "name": "Loca\u00e7\u00e3o",
+          "slug": "locacao"
+        }
+      ],
+      "lat": "-25.4719582",
+      "lng": "-49.29778520000002",
+      "novo": null,
+      "valor_venda": "",
+      "valor_venda_ext": "0",
+      "valor_aluguel": "950,00",
+      "valor_aluguel_ext": "950",
+      "frase_destaque": {
+        "ID": 0,
+        "key": "field_imovel_frase_destaque",
+        "label": "Frase de Destaque",
+        "name": "imovel_frase_destaque",
+        "prefix": "acf",
+        "type": "select",
+        "value": "",
+        "menu_order": 32,
+        "instructions": "",
+        "required": 0,
+        "id": "",
+        "class": "",
+        "conditional_logic": 0,
+        "parent": "group_acf_dados-imovel",
+        "wrapper": {
+          "id": "acf-imovel_frase_destaque"
+        },
+        "_name": "imovel_frase_destaque",
+        "_input": "",
+        "_valid": 1,
+        "choices": {
+          "": "",
+          "lancamento": "Lan\u00e7amento",
+          "novo": "Novo",
+          "promocao": "Promo\u00e7\u00e3o",
+          "oportunidade": "Oportunidade",
+          "baixou": "Baixou",
+          "1_locacao": "1\u00aa Loca\u00e7\u00e3o"
+        },
+        "default_value": "",
+        "placeholder": "",
+        "prepend": "",
+        "append": "",
+        "formatting": "none",
+        "maxlength": "",
+        "multiple": 0,
+        "allow_null": 0,
+        "ui": 0,
+        "ajax": 0,
+        "return_format": "value"
+      },
+      "imovel_status": "Dispon\u00edvel",
+      "imovel_dormitorios": "3",
+      "imovel_banheiros": "2",
+      "imovel_garagens": "1",
+      "imovel_area_util": "88",
+      "endereco": {
+        "rua": "Rua Carlos Dietzsch, 334",
+        "cidade": "Curitiba, PR",
+        "bairro": "Port\u00e3o"
+      },
+      "descricao": "
+      <p>
+      <em>Apartamento pr\u00f3ximo do Col\u00e9gio Bagozzi!\u00a0<\/em><\/p>\n",
+      "permalink": "http:\/\/www.senzalaimoveis.com.br\/imoveis\/curitiba-pr\/locacao\/residencial\/apartamento\/apartamento-padrao-3-dormitorios-1-garagem-portao-1891\/",
+      "thumb_image_url": "http:\/\/www.senzalaimoveis.com.br\/wp-content\/uploads\/2016\/07\/cod1891-destaque-328x180.jpg",
+      "full_image_url": "http:\/\/www.senzalaimoveis.com.br\/wp-content\/uploads\/2016\/07\/cod1891-destaque.jpg"
+    },
+    {
+      "ID": "7259",
+      "codigo": "3149",
+      "titulo": "Ed. Clermont",
+      "imovel_habilitacao_obj": {
+        "term_id": 79,
+        "name": "Residencial",
+        "slug": "residencial"
+      },
+      "tipo": {
+        "name": "Apartamento",
+        "slug": "apartamento"
+      },
+      "finalidades_imovel": [
+        {
+          "name": "Loca\u00e7\u00e3o",
+          "slug": "locacao"
+        }
+      ],
+      "lat": "-25.4327011",
+      "lng": "-49.257179199999996",
+      "novo": null,
+      "valor_venda": "",
+      "valor_venda_ext": "0",
+      "valor_aluguel": "950,00",
+      "valor_aluguel_ext": "950",
+      "frase_destaque": {
+        "ID": 0,
+        "key": "field_imovel_frase_destaque",
+        "label": "Frase de Destaque",
+        "name": "imovel_frase_destaque",
+        "prefix": "acf",
+        "type": "select",
+        "value": "oportunidade",
+        "menu_order": 32,
+        "instructions": "",
+        "required": 0,
+        "id": "",
+        "class": "",
+        "conditional_logic": 0,
+        "parent": "group_acf_dados-imovel",
+        "wrapper": {
+          "id": "acf-imovel_frase_destaque"
+        },
+        "_name": "imovel_frase_destaque",
+        "_input": "",
+        "_valid": 1,
+        "choices": {
+          "": "",
+          "lancamento": "Lan\u00e7amento",
+          "novo": "Novo",
+          "promocao": "Promo\u00e7\u00e3o",
+          "oportunidade": "Oportunidade",
+          "baixou": "Baixou",
+          "1_locacao": "1\u00aa Loca\u00e7\u00e3o"
+        },
+        "default_value": "",
+        "placeholder": "",
+        "prepend": "",
+        "append": "",
+        "formatting": "none",
+        "maxlength": "",
+        "multiple": 0,
+        "allow_null": 0,
+        "ui": 0,
+        "ajax": 0,
+        "return_format": "value"
+      },
+      "imovel_status": "Dispon\u00edvel",
+      "imovel_dormitorios": "3",
+      "imovel_banheiros": "3",
+      "imovel_garagens": "1",
+      "imovel_area_util": "81.92",
+      "endereco": {
+        "rua": "Rua da Paz, 396",
+        "cidade": "Curitiba, PR",
+        "bairro": "Centro\/Rebou\u00e7as"
+      },
+      "descricao": "
+      <p>
+      <em>O bom \u00e9 morar em um bom im\u00f3vel e em boa localiza\u00e7\u00e3o&#8230;confira este pr\u00f3ximo do Mercado Municipal!<\/em><\/p>\n",
+      "permalink": "http:\/\/www.senzalaimoveis.com.br\/imoveis\/curitiba-pr\/locacao\/residencial\/apartamento\/apartamento-padrao-3-dormitorios-1-garagem-centroreboucas-3149\/",
+      "thumb_image_url": "http:\/\/www.senzalaimoveis.com.br\/wp-content\/uploads\/2016\/08\/cod3149-destaque-328x180.jpg",
+      "full_image_url": "http:\/\/www.senzalaimoveis.com.br\/wp-content\/uploads\/2016\/08\/cod3149-destaque.jpg"
+    },
+    {
+      "ID": "6514",
+      "codigo": "381",
+      "titulo": "Ed. Imperador",
+      "imovel_habilitacao_obj": {
+        "term_id": 79,
+        "name": "Residencial",
+        "slug": "residencial"
+      },
+      "tipo": {
+        "name": "Apartamento",
+        "slug": "apartamento"
+      },
+      "finalidades_imovel": [
+        {
+          "name": "Loca\u00e7\u00e3o",
+          "slug": "locacao"
+        }
+      ],
+      "lat": "-25.428436",
+      "lng": "-49.26752729999998",
+      "novo": null,
+      "valor_venda": "",
+      "valor_venda_ext": "0",
+      "valor_aluguel": "900,00",
+      "valor_aluguel_ext": "900",
+      "frase_destaque": {
+        "ID": 0,
+        "key": "field_imovel_frase_destaque",
+        "label": "Frase de Destaque",
+        "name": "imovel_frase_destaque",
+        "prefix": "acf",
+        "type": "select",
+        "value": "",
+        "menu_order": 32,
+        "instructions": "",
+        "required": 0,
+        "id": "",
+        "class": "",
+        "conditional_logic": 0,
+        "parent": "group_acf_dados-imovel",
+        "wrapper": {
+          "id": "acf-imovel_frase_destaque"
+        },
+        "_name": "imovel_frase_destaque",
+        "_input": "",
+        "_valid": 1,
+        "choices": {
+          "": "",
+          "lancamento": "Lan\u00e7amento",
+          "novo": "Novo",
+          "promocao": "Promo\u00e7\u00e3o",
+          "oportunidade": "Oportunidade",
+          "baixou": "Baixou",
+          "1_locacao": "1\u00aa Loca\u00e7\u00e3o"
+        },
+        "default_value": "",
+        "placeholder": "",
+        "prepend": "",
+        "append": "",
+        "formatting": "none",
+        "maxlength": "",
+        "multiple": 0,
+        "allow_null": 0,
+        "ui": 0,
+        "ajax": 0,
+        "return_format": "value"
+      },
+      "imovel_status": "Dispon\u00edvel",
+      "imovel_dormitorios": "2",
+      "imovel_banheiros": "2",
+      "imovel_garagens": "0",
+      "imovel_area_util": "80",
+      "endereco": {
+        "rua": "Rua Alfredo Bufren, 183",
+        "cidade": "Curitiba, PR",
+        "bairro": "Centro"
+      },
+      "descricao": "
+      <p>
+      <em>Im\u00f3vel em frente a Pra\u00e7a Santos Andrade!<\/em><\/p>\n",
+      "permalink": "http:\/\/www.senzalaimoveis.com.br\/imoveis\/curitiba-pr\/locacao\/residencial\/apartamento\/apartamento-padrao-2-dormitorios-centro-381\/",
+      "thumb_image_url": "http:\/\/www.senzalaimoveis.com.br\/wp-content\/uploads\/2016\/07\/cod381-destaque-328x180.jpg",
+      "full_image_url": "http:\/\/www.senzalaimoveis.com.br\/wp-content\/uploads\/2016\/07\/cod381-destaque.jpg"
+    },
+    {
+      "ID": "8267",
+      "codigo": "3157",
+      "titulo": "Cond. Residencial Claret II",
+      "imovel_habilitacao_obj": {
+        "term_id": 79,
+        "name": "Residencial",
+        "slug": "residencial"
+      },
+      "tipo": {
+        "name": "Apartamento",
+        "slug": "apartamento"
+      },
+      "finalidades_imovel": [
+        {
+          "name": "Loca\u00e7\u00e3o",
+          "slug": "locacao"
+        }
+      ],
+      "lat": "-25.4674747",
+      "lng": "-49.2110208",
+      "novo": null,
+      "valor_venda": "",
+      "valor_venda_ext": "0",
+      "valor_aluguel": "900,00",
+      "valor_aluguel_ext": "900",
+      "frase_destaque": {
+        "ID": 0,
+        "key": "field_imovel_frase_destaque",
+        "label": "Frase de Destaque",
+        "name": "imovel_frase_destaque",
+        "prefix": "acf",
+        "type": "select",
+        "value": "",
+        "menu_order": 32,
+        "instructions": "",
+        "required": 0,
+        "id": "",
+        "class": "",
+        "conditional_logic": 0,
+        "parent": "group_acf_dados-imovel",
+        "wrapper": {
+          "id": "acf-imovel_frase_destaque"
+        },
+        "_name": "imovel_frase_destaque",
+        "_input": "",
+        "_valid": 1,
+        "choices": {
+          "": "",
+          "lancamento": "Lan\u00e7amento",
+          "novo": "Novo",
+          "promocao": "Promo\u00e7\u00e3o",
+          "oportunidade": "Oportunidade",
+          "baixou": "Baixou",
+          "1_locacao": "1\u00aa Loca\u00e7\u00e3o"
+        },
+        "default_value": "",
+        "placeholder": "",
+        "prepend": "",
+        "append": "",
+        "formatting": "none",
+        "maxlength": "",
+        "multiple": 0,
+        "allow_null": 0,
+        "ui": 0,
+        "ajax": 0,
+        "return_format": "value"
+      },
+      "imovel_status": "Dispon\u00edvel",
+      "imovel_dormitorios": "2",
+      "imovel_banheiros": "1",
+      "imovel_garagens": "1",
+      "imovel_area_util": "53.78",
+      "endereco": {
+        "rua": "Rua Arg\u00e9lia, 195",
+        "cidade": "Curitiba, PR",
+        "bairro": "Cajuru"
+      },
+      "descricao": "
+      <p>
+      <em>Pequeno e aconchegante, confira!\u00a0<\/em><\/p>\n",
+      "permalink": "http:\/\/www.senzalaimoveis.com.br\/imoveis\/curitiba-\/locacao\/residencial\/apartamento\/apartamento-padrao-2-dormitorios-1-garagem-cajuru-3157\/",
+      "thumb_image_url": "http:\/\/www.senzalaimoveis.com.br\/wp-content\/uploads\/2016\/09\/cod3157-destaque1-328x180.jpg",
+      "full_image_url": "http:\/\/www.senzalaimoveis.com.br\/wp-content\/uploads\/2016\/09\/cod3157-destaque1.jpg"
+    },
+    {
+      "ID": "8850",
+      "codigo": "3167",
+      "titulo": "Ed. Cabo Branco",
+      "imovel_habilitacao_obj": {
+        "term_id": 79,
+        "name": "Residencial",
+        "slug": "residencial"
+      },
+      "tipo": {
+        "name": "Apartamento",
+        "slug": "apartamento"
+      },
+      "finalidades_imovel": [
+        {
+          "name": "Loca\u00e7\u00e3o",
+          "slug": "locacao"
+        }
+      ],
+      "lat": "-25.440045",
+      "lng": "-49.2735534",
+      "novo": null,
+      "valor_venda": "",
+      "valor_venda_ext": "0",
+      "valor_aluguel": "800,00",
+      "valor_aluguel_ext": "800",
+      "frase_destaque": {
+        "ID": 0,
+        "key": "field_imovel_frase_destaque",
+        "label": "Frase de Destaque",
+        "name": "imovel_frase_destaque",
+        "prefix": "acf",
+        "type": "select",
+        "value": "",
+        "menu_order": 32,
+        "instructions": "",
+        "required": 0,
+        "id": "",
+        "class": "",
+        "conditional_logic": 0,
+        "parent": "group_acf_dados-imovel",
+        "wrapper": {
+          "id": "acf-imovel_frase_destaque"
+        },
+        "_name": "imovel_frase_destaque",
+        "_input": "",
+        "_valid": 1,
+        "choices": {
+          "": "",
+          "lancamento": "Lan\u00e7amento",
+          "novo": "Novo",
+          "promocao": "Promo\u00e7\u00e3o",
+          "oportunidade": "Oportunidade",
+          "baixou": "Baixou",
+          "1_locacao": "1\u00aa Loca\u00e7\u00e3o"
+        },
+        "default_value": "",
+        "placeholder": "",
+        "prepend": "",
+        "append": "",
+        "formatting": "none",
+        "maxlength": "",
+        "multiple": 0,
+        "allow_null": 0,
+        "ui": 0,
+        "ajax": 0,
+        "return_format": "value"
+      },
+      "imovel_status": "Dispon\u00edvel",
+      "imovel_dormitorios": "1",
+      "imovel_banheiros": "1",
+      "imovel_garagens": "0",
+      "imovel_area_util": "39.46",
+      "endereco": {
+        "rua": "Avenida Sete de Setembro, 3574",
+        "cidade": "Curitiba, PR",
+        "bairro": "Centro"
+      },
+      "descricao": "
+      <p>
+      <em>Apartamento muito bem localizado pr\u00f3ximo a IFPR e Cursinho Positivo!<\/em><\/p>\n",
+      "permalink": "http:\/\/www.senzalaimoveis.com.br\/imoveis\/curitiba-\/locacao\/residencial\/apartamento\/apartamento-padrao-1-dormitorio-centro-3167\/",
+      "thumb_image_url": "http:\/\/www.senzalaimoveis.com.br\/wp-content\/uploads\/2016\/10\/cod3167-destaque-328x180.jpg",
+      "full_image_url": "http:\/\/www.senzalaimoveis.com.br\/wp-content\/uploads\/2016\/10\/cod3167-destaque.jpg"
+    },
+    {
+      "ID": "1490",
+      "codigo": "2011",
+      "titulo": "Ed. BMS Plaza",
+      "imovel_habilitacao_obj": {
+        "term_id": 79,
+        "name": "Residencial",
+        "slug": "residencial"
+      },
+      "tipo": {
+        "name": "Apartamento",
+        "slug": "apartamento"
+      },
+      "finalidades_imovel": [
+        {
+          "name": "Loca\u00e7\u00e3o",
+          "slug": "locacao"
+        }
+      ],
+      "lat": "-25.435308455497875",
+      "lng": "-49.25372710021668",
+      "novo": null,
+      "valor_venda": "",
+      "valor_venda_ext": "0",
+      "valor_aluguel": "780,00",
+      "valor_aluguel_ext": "780",
+      "frase_destaque": {
+        "ID": 0,
+        "key": "field_imovel_frase_destaque",
+        "label": "Frase de Destaque",
+        "name": "imovel_frase_destaque",
+        "prefix": "acf",
+        "type": "select",
+        "value": "",
+        "menu_order": 32,
+        "instructions": "",
+        "required": 0,
+        "id": "",
+        "class": "",
+        "conditional_logic": 0,
+        "parent": "group_acf_dados-imovel",
+        "wrapper": {
+          "id": "acf-imovel_frase_destaque"
+        },
+        "_name": "imovel_frase_destaque",
+        "_input": "",
+        "_valid": 1,
+        "choices": {
+          "": "",
+          "lancamento": "Lan\u00e7amento",
+          "novo": "Novo",
+          "promocao": "Promo\u00e7\u00e3o",
+          "oportunidade": "Oportunidade",
+          "baixou": "Baixou",
+          "1_locacao": "1\u00aa Loca\u00e7\u00e3o"
+        },
+        "default_value": "",
+        "placeholder": "",
+        "prepend": "",
+        "append": "",
+        "formatting": "none",
+        "maxlength": "",
+        "multiple": 0,
+        "allow_null": 0,
+        "ui": 0,
+        "ajax": 0,
+        "return_format": "value"
+      },
+      "imovel_status": "Dispon\u00edvel",
+      "imovel_dormitorios": "1",
+      "imovel_banheiros": "1",
+      "imovel_garagens": "1",
+      "imovel_area_util": "50",
+      "endereco": {
+        "rua": "Avenida Presidente Affonso Camargo, 633",
+        "cidade": "Curitiba, PR",
+        "bairro": "Cristo Rei"
+      },
+      "descricao": "
+      <p>
+      <em>Loft com garagem!<\/em><\/p>\n",
+      "permalink": "http:\/\/www.senzalaimoveis.com.br\/imoveis\/curitiba-pr\/locacao\/residencial\/apartamento\/kitnet-1-dormitorio-1-garagem-cristo-rei-2011\/",
+      "thumb_image_url": "http:\/\/www.senzalaimoveis.com.br\/wp-content\/uploads\/2016\/05\/cod2011-destaque-328x180.jpg",
+      "full_image_url": "http:\/\/www.senzalaimoveis.com.br\/wp-content\/uploads\/2016\/05\/cod2011-destaque.jpg"
+    },
+    {
+      "ID": "8916",
+      "codigo": "2109",
+      "titulo": "Ed. BMS Plaza",
+      "imovel_habilitacao_obj": {
+        "term_id": 79,
+        "name": "Residencial",
+        "slug": "residencial"
+      },
+      "tipo": {
+        "name": "Apartamento",
+        "slug": "apartamento"
+      },
+      "finalidades_imovel": [
+        {
+          "name": "Loca\u00e7\u00e3o",
+          "slug": "locacao"
+        }
+      ],
+      "lat": "-25.4355015",
+      "lng": "-49.25116209999999",
+      "novo": null,
+      "valor_venda": "",
+      "valor_venda_ext": "0",
+      "valor_aluguel": "780,00",
+      "valor_aluguel_ext": "780",
+      "frase_destaque": {
+        "ID": 0,
+        "key": "field_imovel_frase_destaque",
+        "label": "Frase de Destaque",
+        "name": "imovel_frase_destaque",
+        "prefix": "acf",
+        "type": "select",
+        "value": "",
+        "menu_order": 32,
+        "instructions": "",
+        "required": 0,
+        "id": "",
+        "class": "",
+        "conditional_logic": 0,
+        "parent": "group_acf_dados-imovel",
+        "wrapper": {
+          "id": "acf-imovel_frase_destaque"
+        },
+        "_name": "imovel_frase_destaque",
+        "_input": "",
+        "_valid": 1,
+        "choices": {
+          "": "",
+          "lancamento": "Lan\u00e7amento",
+          "novo": "Novo",
+          "promocao": "Promo\u00e7\u00e3o",
+          "oportunidade": "Oportunidade",
+          "baixou": "Baixou",
+          "1_locacao": "1\u00aa Loca\u00e7\u00e3o"
+        },
+        "default_value": "",
+        "placeholder": "",
+        "prepend": "",
+        "append": "",
+        "formatting": "none",
+        "maxlength": "",
+        "multiple": 0,
+        "allow_null": 0,
+        "ui": 0,
+        "ajax": 0,
+        "return_format": "value"
+      },
+      "imovel_status": "Dispon\u00edvel",
+      "imovel_dormitorios": "1",
+      "imovel_banheiros": "1",
+      "imovel_garagens": "1",
+      "imovel_area_util": "48",
+      "endereco": {
+        "rua": "Avenida Presidente Affonso Camargo, 901",
+        "cidade": "Curitiba, PR",
+        "bairro": "Cristo Rei"
+      },
+      "descricao": "
+      <p>
+      <em>Que tal esse loft pr\u00f3ximo ao Centro?\u00a0<\/em><\/p>\n",
+      "permalink": "http:\/\/www.senzalaimoveis.com.br\/imoveis\/curitiba-\/locacao\/residencial\/apartamento\/kitnet-1-dormitorio-1-garagem-cristo-rei-2109\/",
+      "thumb_image_url": "http:\/\/www.senzalaimoveis.com.br\/wp-content\/uploads\/2016\/10\/cod2109-destaque-328x180.jpg",
+      "full_image_url": "http:\/\/www.senzalaimoveis.com.br\/wp-content\/uploads\/2016\/10\/cod2109-destaque.jpg"
+    },
+    {
+      "ID": "9065",
+      "codigo": "2112",
+      "titulo": "Ed. BMS Plaza",
+      "imovel_habilitacao_obj": {
+        "term_id": 79,
+        "name": "Residencial",
+        "slug": "residencial"
+      },
+      "tipo": {
+        "name": "Apartamento",
+        "slug": "apartamento"
+      },
+      "finalidades_imovel": [
+        {
+          "name": "Loca\u00e7\u00e3o",
+          "slug": "locacao"
+        }
+      ],
+      "lat": "-25.4352575",
+      "lng": "-49.2537741",
+      "novo": null,
+      "valor_venda": "",
+      "valor_venda_ext": "0",
+      "valor_aluguel": "780,00",
+      "valor_aluguel_ext": "780",
+      "frase_destaque": {
+        "ID": 0,
+        "key": "field_imovel_frase_destaque",
+        "label": "Frase de Destaque",
+        "name": "imovel_frase_destaque",
+        "prefix": "acf",
+        "type": "select",
+        "value": "",
+        "menu_order": 32,
+        "instructions": "",
+        "required": 0,
+        "id": "",
+        "class": "",
+        "conditional_logic": 0,
+        "parent": "group_acf_dados-imovel",
+        "wrapper": {
+          "id": "acf-imovel_frase_destaque"
+        },
+        "_name": "imovel_frase_destaque",
+        "_input": "",
+        "_valid": 1,
+        "choices": {
+          "": "",
+          "lancamento": "Lan\u00e7amento",
+          "novo": "Novo",
+          "promocao": "Promo\u00e7\u00e3o",
+          "oportunidade": "Oportunidade",
+          "baixou": "Baixou",
+          "1_locacao": "1\u00aa Loca\u00e7\u00e3o"
+        },
+        "default_value": "",
+        "placeholder": "",
+        "prepend": "",
+        "append": "",
+        "formatting": "none",
+        "maxlength": "",
+        "multiple": 0,
+        "allow_null": 0,
+        "ui": 0,
+        "ajax": 0,
+        "return_format": "value"
+      },
+      "imovel_status": "Dispon\u00edvel",
+      "imovel_dormitorios": "1",
+      "imovel_banheiros": "1",
+      "imovel_garagens": "1",
+      "imovel_area_util": "50",
+      "endereco": {
+        "rua": "Avenida Presidente Affonso Camargo, 633",
+        "cidade": "Curitiba, PR",
+        "bairro": "Cristo Rei"
+      },
+      "descricao": "
+      <p>
+      <em>Semi-mobiliado e com garagem? Conhe\u00e7a esse loft!<\/em><\/p>\n",
+      "permalink": "http:\/\/www.senzalaimoveis.com.br\/imoveis\/curitiba-\/locacao\/residencial\/apartamento\/kitnet-1-dormitorio-1-garagem-cristo-rei-2112\/",
+      "thumb_image_url": "http:\/\/www.senzalaimoveis.com.br\/wp-content\/uploads\/2016\/10\/cod2112-destaque-328x180.jpg",
+      "full_image_url": "http:\/\/www.senzalaimoveis.com.br\/wp-content\/uploads\/2016\/10\/cod2112-destaque.jpg"
+    },
+    {
+      "ID": "1568",
+      "codigo": "2790",
+      "titulo": "Ed. Black Diamond",
+      "imovel_habilitacao_obj": {
+        "term_id": 79,
+        "name": "Residencial",
+        "slug": "residencial"
+      },
+      "tipo": {
+        "name": "Apartamento",
+        "slug": "apartamento"
+      },
+      "finalidades_imovel": [
+        {
+          "name": "Loca\u00e7\u00e3o",
+          "slug": "locacao"
+        }
+      ],
+      "lat": "-25.4346162",
+      "lng": "-49.28190860000001",
+      "novo": null,
+      "valor_venda": "",
+      "valor_venda_ext": "0",
+      "valor_aluguel": "750,00",
+      "valor_aluguel_ext": "750",
+      "frase_destaque": {
+        "ID": 0,
+        "key": "field_imovel_frase_destaque",
+        "label": "Frase de Destaque",
+        "name": "imovel_frase_destaque",
+        "prefix": "acf",
+        "type": "select",
+        "value": "",
+        "menu_order": 32,
+        "instructions": "",
+        "required": 0,
+        "id": "",
+        "class": "",
+        "conditional_logic": 0,
+        "parent": "group_acf_dados-imovel",
+        "wrapper": {
+          "id": "acf-imovel_frase_destaque"
+        },
+        "_name": "imovel_frase_destaque",
+        "_input": "",
+        "_valid": 1,
+        "choices": {
+          "": "",
+          "lancamento": "Lan\u00e7amento",
+          "novo": "Novo",
+          "promocao": "Promo\u00e7\u00e3o",
+          "oportunidade": "Oportunidade",
+          "baixou": "Baixou",
+          "1_locacao": "1\u00aa Loca\u00e7\u00e3o"
+        },
+        "default_value": "",
+        "placeholder": "",
+        "prepend": "",
+        "append": "",
+        "formatting": "none",
+        "maxlength": "",
+        "multiple": 0,
+        "allow_null": 0,
+        "ui": 0,
+        "ajax": 0,
+        "return_format": "value"
+      },
+      "imovel_status": "Dispon\u00edvel",
+      "imovel_dormitorios": "1",
+      "imovel_banheiros": "1",
+      "imovel_garagens": "0",
+      "imovel_area_util": "40.6",
+      "endereco": {
+        "rua": "Rua Brigadeiro Franco, 1482",
+        "cidade": "Curitiba, PR",
+        "bairro": "Centro"
+      },
+      "descricao": "
+      <p>
+      <em>Mobiliado e no centro de Curitiba!<\/em><\/p>\n",
+      "permalink": "http:\/\/www.senzalaimoveis.com.br\/imoveis\/curitiba-pr\/locacao\/residencial\/apartamento\/apartamento-padrao-1-dormitorio-centro-2790\/",
+      "thumb_image_url": "http:\/\/www.senzalaimoveis.com.br\/wp-content\/uploads\/2016\/04\/cod2789-destaque-328x168.jpg",
+      "full_image_url": "http:\/\/www.senzalaimoveis.com.br\/wp-content\/uploads\/2016\/04\/cod2789-destaque.jpg"
+    },
+    {
+      "ID": "8295",
+      "codigo": "3160",
+      "titulo": "Ed. Colina do Sol",
+      "imovel_habilitacao_obj": {
+        "term_id": 79,
+        "name": "Residencial",
+        "slug": "residencial"
+      },
+      "tipo": {
+        "name": "Apartamento",
+        "slug": "apartamento"
+      },
+      "finalidades_imovel": [
+        {
+          "name": "Loca\u00e7\u00e3o",
+          "slug": "locacao"
+        }
+      ],
+      "lat": "-25.3726923",
+      "lng": "-49.3123339",
+      "novo": null,
+      "valor_venda": "",
+      "valor_venda_ext": "0",
+      "valor_aluguel": "750,00",
+      "valor_aluguel_ext": "750",
+      "frase_destaque": {
+        "ID": 0,
+        "key": "field_imovel_frase_destaque",
+        "label": "Frase de Destaque",
+        "name": "imovel_frase_destaque",
+        "prefix": "acf",
+        "type": "select",
+        "value": "",
+        "menu_order": 32,
+        "instructions": "",
+        "required": 0,
+        "id": "",
+        "class": "",
+        "conditional_logic": 0,
+        "parent": "group_acf_dados-imovel",
+        "wrapper": {
+          "id": "acf-imovel_frase_destaque"
+        },
+        "_name": "imovel_frase_destaque",
+        "_input": "",
+        "_valid": 1,
+        "choices": {
+          "": "",
+          "lancamento": "Lan\u00e7amento",
+          "novo": "Novo",
+          "promocao": "Promo\u00e7\u00e3o",
+          "oportunidade": "Oportunidade",
+          "baixou": "Baixou",
+          "1_locacao": "1\u00aa Loca\u00e7\u00e3o"
+        },
+        "default_value": "",
+        "placeholder": "",
+        "prepend": "",
+        "append": "",
+        "formatting": "none",
+        "maxlength": "",
+        "multiple": 0,
+        "allow_null": 0,
+        "ui": 0,
+        "ajax": 0,
+        "return_format": "value"
+      },
+      "imovel_status": "Dispon\u00edvel",
+      "imovel_dormitorios": "2",
+      "imovel_banheiros": "1",
+      "imovel_garagens": "1",
+      "imovel_area_util": "48.11",
+      "endereco": {
+        "rua": "Rua Jos\u00e9 Platner, 367",
+        "cidade": "Almirante Tamandar\u00e9, PR",
+        "bairro": "Tangu\u00e1"
+      },
+      "descricao": "
+      <p>
+      <em>Uma op\u00e7\u00e3o de mobiliado para voc\u00ea!<\/em><\/p>\n",
+      "permalink": "http:\/\/www.senzalaimoveis.com.br\/imoveis\/almirante-tamandare-\/locacao\/residencial\/apartamento\/apartamento-padrao-2-dormitorios-1-garagem-tangua-3160\/",
+      "thumb_image_url": "http:\/\/www.senzalaimoveis.com.br\/wp-content\/uploads\/2016\/09\/cod3160-destaque-328x180.jpg",
+      "full_image_url": "http:\/\/www.senzalaimoveis.com.br\/wp-content\/uploads\/2016\/09\/cod3160-destaque.jpg"
+    },
+    {
+      "ID": "8317",
+      "codigo": "2442",
+      "titulo": "Ed. Orionis",
+      "imovel_habilitacao_obj": {
+        "term_id": 79,
+        "name": "Residencial",
+        "slug": "residencial"
+      },
+      "tipo": {
+        "name": "Apartamento",
+        "slug": "apartamento"
+      },
+      "finalidades_imovel": [
+        {
+          "name": "Loca\u00e7\u00e3o",
+          "slug": "locacao"
+        }
+      ],
+      "lat": "-25.5141482",
+      "lng": "-49.2970039",
+      "novo": null,
+      "valor_venda": "",
+      "valor_venda_ext": "0",
+      "valor_aluguel": "750,00",
+      "valor_aluguel_ext": "750",
+      "frase_destaque": {
+        "ID": 0,
+        "key": "field_imovel_frase_destaque",
+        "label": "Frase de Destaque",
+        "name": "imovel_frase_destaque",
+        "prefix": "acf",
+        "type": "select",
+        "value": "",
+        "menu_order": 32,
+        "instructions": "",
+        "required": 0,
+        "id": "",
+        "class": "",
+        "conditional_logic": 0,
+        "parent": "group_acf_dados-imovel",
+        "wrapper": {
+          "id": "acf-imovel_frase_destaque"
+        },
+        "_name": "imovel_frase_destaque",
+        "_input": "",
+        "_valid": 1,
+        "choices": {
+          "": "",
+          "lancamento": "Lan\u00e7amento",
+          "novo": "Novo",
+          "promocao": "Promo\u00e7\u00e3o",
+          "oportunidade": "Oportunidade",
+          "baixou": "Baixou",
+          "1_locacao": "1\u00aa Loca\u00e7\u00e3o"
+        },
+        "default_value": "",
+        "placeholder": "",
+        "prepend": "",
+        "append": "",
+        "formatting": "none",
+        "maxlength": "",
+        "multiple": 0,
+        "allow_null": 0,
+        "ui": 0,
+        "ajax": 0,
+        "return_format": "value"
+      },
+      "imovel_status": "Dispon\u00edvel",
+      "imovel_dormitorios": "3",
+      "imovel_banheiros": "2",
+      "imovel_garagens": "1",
+      "imovel_area_util": "66.69",
+      "endereco": {
+        "rua": "Rua Marechal Oct\u00e1vio Saldanha Mazza, 7777",
+        "cidade": "Curitiba, PR",
+        "bairro": "Cap\u00e3o Raso"
+      },
+      "descricao": "
+      <p>
+      <em>Conhe\u00e7a esse agrad\u00e1vel apartamento com arm\u00e1rios nos dormit\u00f3rios e cozinha&#8230;<\/em><\/p>\n",
+      "permalink": "http:\/\/www.senzalaimoveis.com.br\/imoveis\/curitiba-\/locacao\/residencial\/apartamento\/apartamento-padrao-3-dormitorios-1-garagem-capao-raso-2442\/",
+      "thumb_image_url": "http:\/\/www.senzalaimoveis.com.br\/wp-content\/uploads\/2016\/09\/cod2442-destque-328x180.jpg",
+      "full_image_url": "http:\/\/www.senzalaimoveis.com.br\/wp-content\/uploads\/2016\/09\/cod2442-destque.jpg"
+    },
+    {
+      "ID": "5608",
+      "codigo": "1526",
+      "titulo": "Ed. Nevada",
+      "imovel_habilitacao_obj": {
+        "term_id": 79,
+        "name": "Residencial",
+        "slug": "residencial"
+      },
+      "tipo": {
+        "name": "Apartamento",
+        "slug": "apartamento"
+      },
+      "finalidades_imovel": [
+        {
+          "name": "Loca\u00e7\u00e3o",
+          "slug": "locacao"
+        }
+      ],
+      "lat": "-25.4343985",
+      "lng": "-49.260989499999994",
+      "novo": null,
+      "valor_venda": "",
+      "valor_venda_ext": "0",
+      "valor_aluguel": "650,00",
+      "valor_aluguel_ext": "650",
+      "frase_destaque": {
+        "ID": 0,
+        "key": "field_imovel_frase_destaque",
+        "label": "Frase de Destaque",
+        "name": "imovel_frase_destaque",
+        "prefix": "acf",
+        "type": "select",
+        "value": "",
+        "menu_order": 32,
+        "instructions": "",
+        "required": 0,
+        "id": "",
+        "class": "",
+        "conditional_logic": 0,
+        "parent": "group_acf_dados-imovel",
+        "wrapper": {
+          "id": "acf-imovel_frase_destaque"
+        },
+        "_name": "imovel_frase_destaque",
+        "_input": "",
+        "_valid": 1,
+        "choices": {
+          "": "",
+          "lancamento": "Lan\u00e7amento",
+          "novo": "Novo",
+          "promocao": "Promo\u00e7\u00e3o",
+          "oportunidade": "Oportunidade",
+          "baixou": "Baixou",
+          "1_locacao": "1\u00aa Loca\u00e7\u00e3o"
+        },
+        "default_value": "",
+        "placeholder": "",
+        "prepend": "",
+        "append": "",
+        "formatting": "none",
+        "maxlength": "",
+        "multiple": 0,
+        "allow_null": 0,
+        "ui": 0,
+        "ajax": 0,
+        "return_format": "value"
+      },
+      "imovel_status": "Dispon\u00edvel",
+      "imovel_dormitorios": "1",
+      "imovel_banheiros": "1",
+      "imovel_garagens": "0",
+      "imovel_area_util": "54",
+      "endereco": {
+        "rua": "Rua Mariano Torres, 916",
+        "cidade": "Curitiba, PR",
+        "bairro": "Centro"
+      },
+      "descricao": "
+      <p>
+      <em>Im\u00f3vel perto da rodovi\u00e1ria!<\/em><\/p>\n",
+      "permalink": "http:\/\/www.senzalaimoveis.com.br\/imoveis\/curitiba-pr\/locacao\/residencial\/apartamento\/apartamento-padrao-1-dormitorio-centro-1526\/",
+      "thumb_image_url": "http:\/\/www.senzalaimoveis.com.br\/wp-content\/uploads\/2016\/06\/cod1526-destaque-328x180.jpg",
+      "full_image_url": "http:\/\/www.senzalaimoveis.com.br\/wp-content\/uploads\/2016\/06\/cod1526-destaque.jpg"
+    },
+    {
+      "ID": "9088",
+      "codigo": "3171",
+      "titulo": "Res. S\u00e3o Jos\u00e9 dos Pinhais",
+      "imovel_habilitacao_obj": {
+        "term_id": 79,
+        "name": "Residencial",
+        "slug": "residencial"
+      },
+      "tipo": {
+        "name": "Apartamento",
+        "slug": "apartamento"
+      },
+      "finalidades_imovel": [
+        {
+          "name": "Loca\u00e7\u00e3o",
+          "slug": "locacao"
+        }
+      ],
+      "lat": "-25.5318354",
+      "lng": "-49.2035722",
+      "novo": null,
+      "valor_venda": "",
+      "valor_venda_ext": "0",
+      "valor_aluguel": "630,00",
+      "valor_aluguel_ext": "630",
+      "frase_destaque": {
+        "ID": 0,
+        "key": "field_imovel_frase_destaque",
+        "label": "Frase de Destaque",
+        "name": "imovel_frase_destaque",
+        "prefix": "acf",
+        "type": "select",
+        "value": "",
+        "menu_order": 32,
+        "instructions": "",
+        "required": 0,
+        "id": "",
+        "class": "",
+        "conditional_logic": 0,
+        "parent": "group_acf_dados-imovel",
+        "wrapper": {
+          "id": "acf-imovel_frase_destaque"
+        },
+        "_name": "imovel_frase_destaque",
+        "_input": "",
+        "_valid": 1,
+        "choices": {
+          "": "",
+          "lancamento": "Lan\u00e7amento",
+          "novo": "Novo",
+          "promocao": "Promo\u00e7\u00e3o",
+          "oportunidade": "Oportunidade",
+          "baixou": "Baixou",
+          "1_locacao": "1\u00aa Loca\u00e7\u00e3o"
+        },
+        "default_value": "",
+        "placeholder": "",
+        "prepend": "",
+        "append": "",
+        "formatting": "none",
+        "maxlength": "",
+        "multiple": 0,
+        "allow_null": 0,
+        "ui": 0,
+        "ajax": 0,
+        "return_format": "value"
+      },
+      "imovel_status": "Dispon\u00edvel",
+      "imovel_dormitorios": "2",
+      "imovel_banheiros": "1",
+      "imovel_garagens": "0",
+      "imovel_area_util": "47.37",
+      "endereco": {
+        "rua": "Rua Moacir Tomelin, 40",
+        "cidade": "S\u00e3o Jos\u00e9 dos Pinhais, PR",
+        "bairro": "Santo Ant\u00f4nio"
+      },
+      "descricao": "
+      <p>
+      <em>Pequeno e aconchegante&#8230;<\/em><\/p>\n",
+      "permalink": "http:\/\/www.senzalaimoveis.com.br\/imoveis\/sao-jose-dos-pinhais-\/locacao\/residencial\/apartamento\/apartamento-padrao-2-dormitorios-santo-antonio-3171\/",
+      "thumb_image_url": "http:\/\/www.senzalaimoveis.com.br\/wp-content\/uploads\/2016\/11\/cod3171-destaque-328x180.jpg",
+      "full_image_url": "http:\/\/www.senzalaimoveis.com.br\/wp-content\/uploads\/2016\/11\/cod3171-destaque.jpg"
+    },
+    {
+      "ID": "1451",
+      "codigo": "11",
+      "titulo": "Ed. Royal Light",
+      "imovel_habilitacao_obj": {
+        "term_id": 79,
+        "name": "Residencial",
+        "slug": "residencial"
+      },
+      "tipo": {
+        "name": "Apartamento",
+        "slug": "apartamento"
+      },
+      "finalidades_imovel": [
+        {
+          "name": "Loca\u00e7\u00e3o",
+          "slug": "locacao"
+        }
+      ],
+      "lat": "-25.4342251",
+      "lng": "-49.25362719999998",
+      "novo": null,
+      "valor_venda": "",
+      "valor_venda_ext": "0",
+      "valor_aluguel": "620,00",
+      "valor_aluguel_ext": "620",
+      "frase_destaque": {
+        "ID": 0,
+        "key": "field_imovel_frase_destaque",
+        "label": "Frase de Destaque",
+        "name": "imovel_frase_destaque",
+        "prefix": "acf",
+        "type": "select",
+        "value": "",
+        "menu_order": 32,
+        "instructions": "",
+        "required": 0,
+        "id": "",
+        "class": "",
+        "conditional_logic": 0,
+        "parent": "group_acf_dados-imovel",
+        "wrapper": {
+          "id": "acf-imovel_frase_destaque"
+        },
+        "_name": "imovel_frase_destaque",
+        "_input": "",
+        "_valid": 1,
+        "choices": {
+          "": "",
+          "lancamento": "Lan\u00e7amento",
+          "novo": "Novo",
+          "promocao": "Promo\u00e7\u00e3o",
+          "oportunidade": "Oportunidade",
+          "baixou": "Baixou",
+          "1_locacao": "1\u00aa Loca\u00e7\u00e3o"
+        },
+        "default_value": "",
+        "placeholder": "",
+        "prepend": "",
+        "append": "",
+        "formatting": "none",
+        "maxlength": "",
+        "multiple": 0,
+        "allow_null": 0,
+        "ui": 0,
+        "ajax": 0,
+        "return_format": "value"
+      },
+      "imovel_status": "Dispon\u00edvel",
+      "imovel_dormitorios": "1",
+      "imovel_banheiros": "1",
+      "imovel_garagens": "0",
+      "imovel_area_util": "31.48",
+      "endereco": {
+        "rua": "Rua At\u00edlio B\u00f3rio, 139",
+        "cidade": "Curitiba, PR",
+        "bairro": "Cristo Rei"
+      },
+      "descricao": "
+      <p>
+      <em>Quer morar pertinho da Rodovi\u00e1ria para ir e voltar pra sua cidade? Veja este pr\u00e1tico apartamento&#8230;<\/em><\/p>\n",
+      "permalink": "http:\/\/www.senzalaimoveis.com.br\/imoveis\/curitiba-pr\/locacao\/residencial\/apartamento\/apartamento-padrao-1-dormitorio-cristo-rei-11\/",
+      "thumb_image_url": "http:\/\/www.senzalaimoveis.com.br\/wp-content\/uploads\/2016\/07\/cod11-destaque2-328x180.jpg",
+      "full_image_url": "http:\/\/www.senzalaimoveis.com.br\/wp-content\/uploads\/2016\/07\/cod11-destaque2.jpg"
+    },
+    {
+      "ID": "1413",
+      "codigo": "9",
+      "titulo": "Ed. Trianon Park",
+      "imovel_habilitacao_obj": {
+        "term_id": 79,
+        "name": "Residencial",
+        "slug": "residencial"
+      },
+      "tipo": {
+        "name": "Apartamento",
+        "slug": "apartamento"
+      },
+      "finalidades_imovel": [
+        {
+          "name": "Loca\u00e7\u00e3o",
+          "slug": "locacao"
+        }
+      ],
+      "lat": "-25.4375209",
+      "lng": "-49.23672740000001",
+      "novo": null,
+      "valor_venda": "",
+      "valor_venda_ext": "0",
+      "valor_aluguel": "600,00",
+      "valor_aluguel_ext": "600",
+      "frase_destaque": {
+        "ID": 0,
+        "key": "field_imovel_frase_destaque",
+        "label": "Frase de Destaque",
+        "name": "imovel_frase_destaque",
+        "prefix": "acf",
+        "type": "select",
+        "value": "",
+        "menu_order": 32,
+        "instructions": "",
+        "required": 0,
+        "id": "",
+        "class": "",
+        "conditional_logic": 0,
+        "parent": "group_acf_dados-imovel",
+        "wrapper": {
+          "id": "acf-imovel_frase_destaque"
+        },
+        "_name": "imovel_frase_destaque",
+        "_input": "",
+        "_valid": 1,
+        "choices": {
+          "": "",
+          "lancamento": "Lan\u00e7amento",
+          "novo": "Novo",
+          "promocao": "Promo\u00e7\u00e3o",
+          "oportunidade": "Oportunidade",
+          "baixou": "Baixou",
+          "1_locacao": "1\u00aa Loca\u00e7\u00e3o"
+        },
+        "default_value": "",
+        "placeholder": "",
+        "prepend": "",
+        "append": "",
+        "formatting": "none",
+        "maxlength": "",
+        "multiple": 0,
+        "allow_null": 0,
+        "ui": 0,
+        "ajax": 0,
+        "return_format": "value"
+      },
+      "imovel_status": "Dispon\u00edvel",
+      "imovel_dormitorios": "2",
+      "imovel_banheiros": "1",
+      "imovel_garagens": "0",
+      "imovel_area_util": "27.22",
+      "endereco": {
+        "rua": "Rua Governador Agamenon Magalh\u00e3es, 173",
+        "cidade": "Curitiba, PR",
+        "bairro": "Cristo Rei"
+      },
+      "descricao": "
+      <p>
+      <em>More pertinho do Jardim Bot\u00e2nico!<\/em><\/p>\n",
+      "permalink": "http:\/\/www.senzalaimoveis.com.br\/imoveis\/curitiba-pr\/locacao\/residencial\/apartamento\/apartamento-padrao-2-dormitorios-cristo-rei-9\/",
+      "thumb_image_url": "http:\/\/www.senzalaimoveis.com.br\/wp-content\/uploads\/2016\/04\/cod9-destaque-328x168.jpg",
+      "full_image_url": "http:\/\/www.senzalaimoveis.com.br\/wp-content\/uploads\/2016\/04\/cod9-destaque.jpg"
+    },
+    {
+      "ID": "8116",
+      "codigo": "3084",
+      "titulo": "Ed. Orquideas",
+      "imovel_habilitacao_obj": {
+        "term_id": 79,
+        "name": "Residencial",
+        "slug": "residencial"
+      },
+      "tipo": {
+        "name": "Apartamento",
+        "slug": "apartamento"
+      },
+      "finalidades_imovel": [
+        {
+          "name": "Loca\u00e7\u00e3o",
+          "slug": "locacao"
+        }
+      ],
+      "lat": "-25.4950509",
+      "lng": "-49.34944410000001",
+      "novo": null,
+      "valor_venda": "",
+      "valor_venda_ext": "0",
+      "valor_aluguel": "600,00",
+      "valor_aluguel_ext": "600",
+      "frase_destaque": {
+        "ID": 0,
+        "key": "field_imovel_frase_destaque",
+        "label": "Frase de Destaque",
+        "name": "imovel_frase_destaque",
+        "prefix": "acf",
+        "type": "select",
+        "value": "",
+        "menu_order": 32,
+        "instructions": "",
+        "required": 0,
+        "id": "",
+        "class": "",
+        "conditional_logic": 0,
+        "parent": "group_acf_dados-imovel",
+        "wrapper": {
+          "id": "acf-imovel_frase_destaque"
+        },
+        "_name": "imovel_frase_destaque",
+        "_input": "",
+        "_valid": 1,
+        "choices": {
+          "": "",
+          "lancamento": "Lan\u00e7amento",
+          "novo": "Novo",
+          "promocao": "Promo\u00e7\u00e3o",
+          "oportunidade": "Oportunidade",
+          "baixou": "Baixou",
+          "1_locacao": "1\u00aa Loca\u00e7\u00e3o"
+        },
+        "default_value": "",
+        "placeholder": "",
+        "prepend": "",
+        "append": "",
+        "formatting": "none",
+        "maxlength": "",
+        "multiple": 0,
+        "allow_null": 0,
+        "ui": 0,
+        "ajax": 0,
+        "return_format": "value"
+      },
+      "imovel_status": "Dispon\u00edvel",
+      "imovel_dormitorios": "2",
+      "imovel_banheiros": "1",
+      "imovel_garagens": "1",
+      "imovel_area_util": "49.9",
+      "endereco": {
+        "rua": "Rua Jair Coelho, 330",
+        "cidade": "Curitiba, PR",
+        "bairro": "Cidade Industrial"
+      },
+      "descricao": "
+      <p>
+      <em>Confira esse pequeno e confort\u00e1vel apartamento&#8230;<\/em><\/p>\n",
+      "permalink": "http:\/\/www.senzalaimoveis.com.br\/imoveis\/curitiba-\/locacao\/residencial\/apartamento\/apartamento-padrao-2-dormitorios-1-garagem-cidade-industrial-3084\/",
+      "thumb_image_url": "http:\/\/www.senzalaimoveis.com.br\/wp-content\/uploads\/2016\/09\/cod3084-destque-328x180.jpg",
+      "full_image_url": "http:\/\/www.senzalaimoveis.com.br\/wp-content\/uploads\/2016\/09\/cod3084-destque.jpg"
+    },
+    {
+      "ID": "6724",
+      "codigo": "3145",
+      "titulo": "Cond. Res. Moradias Caiu\u00e1 I",
+      "imovel_habilitacao_obj": {
+        "term_id": 79,
+        "name": "Residencial",
+        "slug": "residencial"
+      },
+      "tipo": {
+        "name": "Apartamento",
+        "slug": "apartamento"
+      },
+      "finalidades_imovel": [
+        {
+          "name": "Loca\u00e7\u00e3o",
+          "slug": "locacao"
+        }
+      ],
+      "lat": "-25.4838044",
+      "lng": "-49.350504",
+      "novo": null,
+      "valor_venda": "",
+      "valor_venda_ext": "0",
+      "valor_aluguel": "550,00",
+      "valor_aluguel_ext": "550",
+      "frase_destaque": {
+        "ID": 0,
+        "key": "field_imovel_frase_destaque",
+        "label": "Frase de Destaque",
+        "name": "imovel_frase_destaque",
+        "prefix": "acf",
+        "type": "select",
+        "value": "oportunidade",
+        "menu_order": 32,
+        "instructions": "",
+        "required": 0,
+        "id": "",
+        "class": "",
+        "conditional_logic": 0,
+        "parent": "group_acf_dados-imovel",
+        "wrapper": {
+          "id": "acf-imovel_frase_destaque"
+        },
+        "_name": "imovel_frase_destaque",
+        "_input": "",
+        "_valid": 1,
+        "choices": {
+          "": "",
+          "lancamento": "Lan\u00e7amento",
+          "novo": "Novo",
+          "promocao": "Promo\u00e7\u00e3o",
+          "oportunidade": "Oportunidade",
+          "baixou": "Baixou",
+          "1_locacao": "1\u00aa Loca\u00e7\u00e3o"
+        },
+        "default_value": "",
+        "placeholder": "",
+        "prepend": "",
+        "append": "",
+        "formatting": "none",
+        "maxlength": "",
+        "multiple": 0,
+        "allow_null": 0,
+        "ui": 0,
+        "ajax": 0,
+        "return_format": "value"
+      },
+      "imovel_status": "Dispon\u00edvel",
+      "imovel_dormitorios": "2",
+      "imovel_banheiros": "1",
+      "imovel_garagens": "1",
+      "imovel_area_util": "40",
+      "endereco": {
+        "rua": "Rua Lodovico Kaminski, 3260",
+        "cidade": "Curitiba, PR",
+        "bairro": "Caiu\u00e1\/Cidade Industrial"
+      },
+      "descricao": "
+      <p>
+      <em>Para quem gosta ou precisa de apartamento t\u00e9rreo, confira este!<\/em><\/p>\n",
+      "permalink": "http:\/\/www.senzalaimoveis.com.br\/imoveis\/curitiba-pr\/locacao\/residencial\/apartamento\/apartamento-padrao-2-dormitorios-1-garagem-caiuacidade-industrial-3145\/",
+      "thumb_image_url": "http:\/\/www.senzalaimoveis.com.br\/wp-content\/uploads\/2016\/07\/cod3145-destaque-328x180.jpg",
+      "full_image_url": "http:\/\/www.senzalaimoveis.com.br\/wp-content\/uploads\/2016\/07\/cod3145-destaque.jpg"
+    },
+    {
+      "ID": "1452",
+      "codigo": "59",
+      "titulo": "Ed. Square Garden",
+      "imovel_habilitacao_obj": {
+        "term_id": 79,
+        "name": "Residencial",
+        "slug": "residencial"
+      },
+      "tipo": {
+        "name": "Apartamento",
+        "slug": "apartamento"
+      },
+      "finalidades_imovel": [
+        {
+          "name": "Loca\u00e7\u00e3o",
+          "slug": "locacao"
+        }
+      ],
+      "lat": "-25.4336438",
+      "lng": "-49.2539496",
+      "novo": null,
+      "valor_venda": "",
+      "valor_venda_ext": "0",
+      "valor_aluguel": "500,00",
+      "valor_aluguel_ext": "500",
+      "frase_destaque": {
+        "ID": 0,
+        "key": "field_imovel_frase_destaque",
+        "label": "Frase de Destaque",
+        "name": "imovel_frase_destaque",
+        "prefix": "acf",
+        "type": "select",
+        "value": "",
+        "menu_order": 32,
+        "instructions": "",
+        "required": 0,
+        "id": "",
+        "class": "",
+        "conditional_logic": 0,
+        "parent": "group_acf_dados-imovel",
+        "wrapper": {
+          "id": "acf-imovel_frase_destaque"
+        },
+        "_name": "imovel_frase_destaque",
+        "_input": "",
+        "_valid": 1,
+        "choices": {
+          "": "",
+          "lancamento": "Lan\u00e7amento",
+          "novo": "Novo",
+          "promocao": "Promo\u00e7\u00e3o",
+          "oportunidade": "Oportunidade",
+          "baixou": "Baixou",
+          "1_locacao": "1\u00aa Loca\u00e7\u00e3o"
+        },
+        "default_value": "",
+        "placeholder": "",
+        "prepend": "",
+        "append": "",
+        "formatting": "none",
+        "maxlength": "",
+        "multiple": 0,
+        "allow_null": 0,
+        "ui": 0,
+        "ajax": 0,
+        "return_format": "value"
+      },
+      "imovel_status": "Dispon\u00edvel",
+      "imovel_dormitorios": "1",
+      "imovel_banheiros": "1",
+      "imovel_garagens": "0",
+      "imovel_area_util": "18.94",
+      "endereco": {
+        "rua": "Rua Francisco Alves Guimar\u00e3es, 170",
+        "cidade": "Curitiba, PR",
+        "bairro": "Cristo Rei"
+      },
+      "descricao": "
+      <p>
+      <em>Um \u00f3tima op\u00e7\u00e3o pr\u00e1tica e pr\u00f3ximo do Centro de Curitiba!<\/em><\/p>\n",
+      "permalink": "http:\/\/www.senzalaimoveis.com.br\/imoveis\/curitiba-pr\/locacao\/residencial\/apartamento\/apartamento-padrao-1-dormitorio-cristo-rei-59\/",
+      "thumb_image_url": "http:\/\/www.senzalaimoveis.com.br\/wp-content\/uploads\/2016\/04\/cod59-destaque-328x168.jpg",
+      "full_image_url": "http:\/\/www.senzalaimoveis.com.br\/wp-content\/uploads\/2016\/04\/cod59-destaque.jpg"
+    },
+    {
+      "ID": "5345",
+      "codigo": "3005",
+      "titulo": "Ed. T\u00edvoli",
+      "imovel_habilitacao_obj": {
+        "term_id": 79,
+        "name": "Residencial",
+        "slug": "residencial"
+      },
+      "tipo": {
+        "name": "Apartamento",
+        "slug": "apartamento"
+      },
+      "finalidades_imovel": [
+        {
+          "name": "Loca\u00e7\u00e3o",
+          "slug": "locacao"
+        }
+      ],
+      "lat": "-25.4682324",
+      "lng": "-49.29260590000001",
+      "novo": null,
+      "valor_venda": "",
+      "valor_venda_ext": "0",
+      "valor_aluguel": "500,00",
+      "valor_aluguel_ext": "500",
+      "frase_destaque": {
+        "ID": 0,
+        "key": "field_imovel_frase_destaque",
+        "label": "Frase de Destaque",
+        "name": "imovel_frase_destaque",
+        "prefix": "acf",
+        "type": "select",
+        "value": "",
+        "menu_order": 32,
+        "instructions": "",
+        "required": 0,
+        "id": "",
+        "class": "",
+        "conditional_logic": 0,
+        "parent": "group_acf_dados-imovel",
+        "wrapper": {
+          "id": "acf-imovel_frase_destaque"
+        },
+        "_name": "imovel_frase_destaque",
+        "_input": "",
+        "_valid": 1,
+        "choices": {
+          "": "",
+          "lancamento": "Lan\u00e7amento",
+          "novo": "Novo",
+          "promocao": "Promo\u00e7\u00e3o",
+          "oportunidade": "Oportunidade",
+          "baixou": "Baixou",
+          "1_locacao": "1\u00aa Loca\u00e7\u00e3o"
+        },
+        "default_value": "",
+        "placeholder": "",
+        "prepend": "",
+        "append": "",
+        "formatting": "none",
+        "maxlength": "",
+        "multiple": 0,
+        "allow_null": 0,
+        "ui": 0,
+        "ajax": 0,
+        "return_format": "value"
+      },
+      "imovel_status": "Dispon\u00edvel",
+      "imovel_dormitorios": "1",
+      "imovel_banheiros": "1",
+      "imovel_garagens": "0",
+      "imovel_area_util": "32.56",
+      "endereco": {
+        "rua": "Rua Ant\u00f4nio Pietruza, 164",
+        "cidade": "Curitiba, PR",
+        "bairro": "Port\u00e3o"
+      },
+      "descricao": "
+      <p>
+      <em>Apartamento tipo Kitnet!<\/em><\/p>\n",
+      "permalink": "http:\/\/www.senzalaimoveis.com.br\/imoveis\/curitiba-pr\/locacao\/residencial\/apartamento\/kitnet-1-dormitorio-portao-3005\/",
+      "thumb_image_url": "http:\/\/www.senzalaimoveis.com.br\/wp-content\/uploads\/2016\/06\/cod3005-destaque-328x180.jpg",
+      "full_image_url": "http:\/\/www.senzalaimoveis.com.br\/wp-content\/uploads\/2016\/06\/cod3005-destaque.jpg"
+    },
+    {
+      "ID": "7480",
+      "codigo": "3151",
+      "titulo": "Ed. T\u00edvoli",
+      "imovel_habilitacao_obj": {
+        "term_id": 79,
+        "name": "Residencial",
+        "slug": "residencial"
+      },
+      "tipo": {
+        "name": "Apartamento",
+        "slug": "apartamento"
+      },
+      "finalidades_imovel": [
+        {
+          "name": "Loca\u00e7\u00e3o",
+          "slug": "locacao"
+        }
+      ],
+      "lat": "-25.4682324",
+      "lng": "-49.29260590000001",
+      "novo": null,
+      "valor_venda": "",
+      "valor_venda_ext": "0",
+      "valor_aluguel": "500,00",
+      "valor_aluguel_ext": "500",
+      "frase_destaque": {
+        "ID": 0,
+        "key": "field_imovel_frase_destaque",
+        "label": "Frase de Destaque",
+        "name": "imovel_frase_destaque",
+        "prefix": "acf",
+        "type": "select",
+        "value": "",
+        "menu_order": 32,
+        "instructions": "",
+        "required": 0,
+        "id": "",
+        "class": "",
+        "conditional_logic": 0,
+        "parent": "group_acf_dados-imovel",
+        "wrapper": {
+          "id": "acf-imovel_frase_destaque"
+        },
+        "_name": "imovel_frase_destaque",
+        "_input": "",
+        "_valid": 1,
+        "choices": {
+          "": "",
+          "lancamento": "Lan\u00e7amento",
+          "novo": "Novo",
+          "promocao": "Promo\u00e7\u00e3o",
+          "oportunidade": "Oportunidade",
+          "baixou": "Baixou",
+          "1_locacao": "1\u00aa Loca\u00e7\u00e3o"
+        },
+        "default_value": "",
+        "placeholder": "",
+        "prepend": "",
+        "append": "",
+        "formatting": "none",
+        "maxlength": "",
+        "multiple": 0,
+        "allow_null": 0,
+        "ui": 0,
+        "ajax": 0,
+        "return_format": "value"
+      },
+      "imovel_status": "Dispon\u00edvel",
+      "imovel_dormitorios": "1",
+      "imovel_banheiros": "1",
+      "imovel_garagens": "0",
+      "imovel_area_util": "40",
+      "endereco": {
+        "rua": "Rua Ant\u00f4nio Pietruza, 164",
+        "cidade": "Curitiba, PR",
+        "bairro": "Port\u00e3o"
+      },
+      "descricao": "
+      <p>
+      <em>Apartamento tipo kitnet!<\/em><\/p>\n",
+      "permalink": "http:\/\/www.senzalaimoveis.com.br\/imoveis\/curitiba-pr\/locacao\/residencial\/apartamento\/kitnet-1-dormitorio-portao-3151\/",
+      "thumb_image_url": "http:\/\/www.senzalaimoveis.com.br\/wp-content\/uploads\/2016\/08\/cod3151-destaque-328x180.jpg",
+      "full_image_url": "http:\/\/www.senzalaimoveis.com.br\/wp-content\/uploads\/2016\/08\/cod3151-destaque.jpg"
+    },
+    {
+      "ID": "9109",
+      "codigo": "3172",
+      "titulo": "Ed. T\u00edvoli",
+      "imovel_habilitacao_obj": {
+        "term_id": 79,
+        "name": "Residencial",
+        "slug": "residencial"
+      },
+      "tipo": {
+        "name": "Apartamento",
+        "slug": "apartamento"
+      },
+      "finalidades_imovel": [
+        {
+          "name": "Loca\u00e7\u00e3o",
+          "slug": "locacao"
+        }
+      ],
+      "lat": "-25.4682324",
+      "lng": "-49.2926059",
+      "novo": null,
+      "valor_venda": "",
+      "valor_venda_ext": "0",
+      "valor_aluguel": "500,00",
+      "valor_aluguel_ext": "500",
+      "frase_destaque": {
+        "ID": 0,
+        "key": "field_imovel_frase_destaque",
+        "label": "Frase de Destaque",
+        "name": "imovel_frase_destaque",
+        "prefix": "acf",
+        "type": "select",
+        "value": "",
+        "menu_order": 32,
+        "instructions": "",
+        "required": 0,
+        "id": "",
+        "class": "",
+        "conditional_logic": 0,
+        "parent": "group_acf_dados-imovel",
+        "wrapper": {
+          "id": "acf-imovel_frase_destaque"
+        },
+        "_name": "imovel_frase_destaque",
+        "_input": "",
+        "_valid": 1,
+        "choices": {
+          "": "",
+          "lancamento": "Lan\u00e7amento",
+          "novo": "Novo",
+          "promocao": "Promo\u00e7\u00e3o",
+          "oportunidade": "Oportunidade",
+          "baixou": "Baixou",
+          "1_locacao": "1\u00aa Loca\u00e7\u00e3o"
+        },
+        "default_value": "",
+        "placeholder": "",
+        "prepend": "",
+        "append": "",
+        "formatting": "none",
+        "maxlength": "",
+        "multiple": 0,
+        "allow_null": 0,
+        "ui": 0,
+        "ajax": 0,
+        "return_format": "value"
+      },
+      "imovel_status": "Dispon\u00edvel",
+      "imovel_dormitorios": "1",
+      "imovel_banheiros": "1",
+      "imovel_garagens": "0",
+      "imovel_area_util": "32.56",
+      "endereco": {
+        "rua": "Rua Ant\u00f4nio Pietruza, 164",
+        "cidade": "Curitiba, PR",
+        "bairro": "Port\u00e3o"
+      },
+      "descricao": "
+      <p>
+      <em>Pensando em morar sozinho? Conhe\u00e7a essa kitnet!\u00a0<\/em><\/p>\n",
+      "permalink": "http:\/\/www.senzalaimoveis.com.br\/imoveis\/curitiba-\/locacao\/residencial\/apartamento\/kitnet-1-dormitorio-portao-3172\/",
+      "thumb_image_url": "http:\/\/www.senzalaimoveis.com.br\/wp-content\/uploads\/2016\/11\/cod3172-destaque-328x180.jpg",
+      "full_image_url": "http:\/\/www.senzalaimoveis.com.br\/wp-content\/uploads\/2016\/11\/cod3172-destaque.jpg"
+    },
+    {
+      "ID": "7339",
+      "codigo": "2762",
+      "titulo": "Ed. City Center",
+      "imovel_habilitacao_obj": {
+        "term_id": 79,
+        "name": "Residencial",
+        "slug": "residencial"
+      },
+      "tipo": {
+        "name": "Apartamento",
+        "slug": "apartamento"
+      },
+      "finalidades_imovel": [
+        {
+          "name": "Loca\u00e7\u00e3o",
+          "slug": "locacao"
+        }
+      ],
+      "lat": "-25.4371277",
+      "lng": "-49.27744050000001",
+      "novo": null,
+      "valor_venda": "",
+      "valor_venda_ext": "0",
+      "valor_aluguel": "450,00",
+      "valor_aluguel_ext": "450",
+      "frase_destaque": {
+        "ID": 0,
+        "key": "field_imovel_frase_destaque",
+        "label": "Frase de Destaque",
+        "name": "imovel_frase_destaque",
+        "prefix": "acf",
+        "type": "select",
+        "value": "oportunidade",
+        "menu_order": 32,
+        "instructions": "",
+        "required": 0,
+        "id": "",
+        "class": "",
+        "conditional_logic": 0,
+        "parent": "group_acf_dados-imovel",
+        "wrapper": {
+          "id": "acf-imovel_frase_destaque"
+        },
+        "_name": "imovel_frase_destaque",
+        "_input": "",
+        "_valid": 1,
+        "choices": {
+          "": "",
+          "lancamento": "Lan\u00e7amento",
+          "novo": "Novo",
+          "promocao": "Promo\u00e7\u00e3o",
+          "oportunidade": "Oportunidade",
+          "baixou": "Baixou",
+          "1_locacao": "1\u00aa Loca\u00e7\u00e3o"
+        },
+        "default_value": "",
+        "placeholder": "",
+        "prepend": "",
+        "append": "",
+        "formatting": "none",
+        "maxlength": "",
+        "multiple": 0,
+        "allow_null": 0,
+        "ui": 0,
+        "ajax": 0,
+        "return_format": "value"
+      },
+      "imovel_status": "Dispon\u00edvel",
+      "imovel_dormitorios": "1",
+      "imovel_banheiros": "1",
+      "imovel_garagens": "0",
+      "imovel_area_util": "25.92",
+      "endereco": {
+        "rua": "Rua Emiliano Perneta, 659",
+        "cidade": "Curitiba, PR",
+        "bairro": "Centro"
+      },
+      "descricao": "
+      <p>
+      <em>Kitnet no Centro da Cidade, aproveite!<\/em><\/p>\n",
+      "permalink": "http:\/\/www.senzalaimoveis.com.br\/imoveis\/curitiba-pr\/locacao\/residencial\/apartamento\/kitnet-1-dormitorio-centro-2762\/",
+      "thumb_image_url": "http:\/\/www.senzalaimoveis.com.br\/wp-content\/uploads\/2016\/08\/cod2762-destaque-328x180.jpg",
+      "full_image_url": "http:\/\/www.senzalaimoveis.com.br\/wp-content\/uploads\/2016\/08\/cod2762-destaque.jpg"
+    },
+    {
+      "ID": "7822",
+      "codigo": "2599",
+      "titulo": "Ed. City Center",
+      "imovel_habilitacao_obj": {
+        "term_id": 79,
+        "name": "Residencial",
+        "slug": "residencial"
+      },
+      "tipo": {
+        "name": "Apartamento",
+        "slug": "apartamento"
+      },
+      "finalidades_imovel": [
+        {
+          "name": "Loca\u00e7\u00e3o",
+          "slug": "locacao"
+        }
+      ],
+      "lat": "-25.4371277",
+      "lng": "-49.27744050000001",
+      "novo": null,
+      "valor_venda": "",
+      "valor_venda_ext": "0",
+      "valor_aluguel": "450,00",
+      "valor_aluguel_ext": "450",
+      "frase_destaque": {
+        "ID": 0,
+        "key": "field_imovel_frase_destaque",
+        "label": "Frase de Destaque",
+        "name": "imovel_frase_destaque",
+        "prefix": "acf",
+        "type": "select",
+        "value": "",
+        "menu_order": 32,
+        "instructions": "",
+        "required": 0,
+        "id": "",
+        "class": "",
+        "conditional_logic": 0,
+        "parent": "group_acf_dados-imovel",
+        "wrapper": {
+          "id": "acf-imovel_frase_destaque"
+        },
+        "_name": "imovel_frase_destaque",
+        "_input": "",
+        "_valid": 1,
+        "choices": {
+          "": "",
+          "lancamento": "Lan\u00e7amento",
+          "novo": "Novo",
+          "promocao": "Promo\u00e7\u00e3o",
+          "oportunidade": "Oportunidade",
+          "baixou": "Baixou",
+          "1_locacao": "1\u00aa Loca\u00e7\u00e3o"
+        },
+        "default_value": "",
+        "placeholder": "",
+        "prepend": "",
+        "append": "",
+        "formatting": "none",
+        "maxlength": "",
+        "multiple": 0,
+        "allow_null": 0,
+        "ui": 0,
+        "ajax": 0,
+        "return_format": "value"
+      },
+      "imovel_status": "Dispon\u00edvel",
+      "imovel_dormitorios": "1",
+      "imovel_banheiros": "1",
+      "imovel_garagens": "0",
+      "imovel_area_util": "25",
+      "endereco": {
+        "rua": "Rua Emiliano Perneta, 659",
+        "cidade": "Curitiba, PR",
+        "bairro": "Centro"
+      },
+      "descricao": "
+      <p>
+      <em>Um pequeno apartamento para voc\u00ea morar no centro da cidade!<\/em><\/p>\n",
+      "permalink": "http:\/\/www.senzalaimoveis.com.br\/imoveis\/curitiba-pr\/locacao\/residencial\/apartamento\/kitnet-1-dormitorio-centro-2599\/",
+      "thumb_image_url": "http:\/\/www.senzalaimoveis.com.br\/wp-content\/uploads\/2016\/08\/cod2599-destaque-328x180.jpg",
+      "full_image_url": "http:\/\/www.senzalaimoveis.com.br\/wp-content\/uploads\/2016\/08\/cod2599-destaque.jpg"
+    },
+    {
+      "ID": "8472",
+      "codigo": "2811",
+      "titulo": "Ed. City Center",
+      "imovel_habilitacao_obj": {
+        "term_id": 79,
+        "name": "Residencial",
+        "slug": "residencial"
+      },
+      "tipo": {
+        "name": "Apartamento",
+        "slug": "apartamento"
+      },
+      "finalidades_imovel": [
+        {
+          "name": "Loca\u00e7\u00e3o",
+          "slug": "locacao"
+        }
+      ],
+      "lat": "-25.4371277",
+      "lng": "-49.2774405",
+      "novo": null,
+      "valor_venda": "",
+      "valor_venda_ext": "0",
+      "valor_aluguel": "450,00",
+      "valor_aluguel_ext": "450",
+      "frase_destaque": {
+        "ID": 0,
+        "key": "field_imovel_frase_destaque",
+        "label": "Frase de Destaque",
+        "name": "imovel_frase_destaque",
+        "prefix": "acf",
+        "type": "select",
+        "value": "",
+        "menu_order": 32,
+        "instructions": "",
+        "required": 0,
+        "id": "",
+        "class": "",
+        "conditional_logic": 0,
+        "parent": "group_acf_dados-imovel",
+        "wrapper": {
+          "id": "acf-imovel_frase_destaque"
+        },
+        "_name": "imovel_frase_destaque",
+        "_input": "",
+        "_valid": 1,
+        "choices": {
+          "": "",
+          "lancamento": "Lan\u00e7amento",
+          "novo": "Novo",
+          "promocao": "Promo\u00e7\u00e3o",
+          "oportunidade": "Oportunidade",
+          "baixou": "Baixou",
+          "1_locacao": "1\u00aa Loca\u00e7\u00e3o"
+        },
+        "default_value": "",
+        "placeholder": "",
+        "prepend": "",
+        "append": "",
+        "formatting": "none",
+        "maxlength": "",
+        "multiple": 0,
+        "allow_null": 0,
+        "ui": 0,
+        "ajax": 0,
+        "return_format": "value"
+      },
+      "imovel_status": "Dispon\u00edvel",
+      "imovel_dormitorios": "1",
+      "imovel_banheiros": "1",
+      "imovel_garagens": "0",
+      "imovel_area_util": "26",
+      "endereco": {
+        "rua": "Rua Emiliano Perneta, 659",
+        "cidade": "Curitiba, PR",
+        "bairro": "Centro"
+      },
+      "descricao": "undefined<p>undefined<em>Perfeito pra quem quer morar sozinho&#8230;<\/em><\/p>\n",
+      "permalink": "http:\/\/www.senzalaimoveis.com.br\/imoveis\/curitiba-\/locacao\/residencial\/apartamento\/kitnet-1-dormitorio-centro-2811\/",
+      "thumb_image_url": "http:\/\/www.senzalaimoveis.com.br\/wp-content\/uploads\/2016\/09\/cod2811-destaque-328x180.jpg",
+      "full_image_url": "http:\/\/www.senzalaimoveis.com.br\/wp-content\/uploads\/2016\/09\/cod2811-destaque.jpg"
+    },
+    {
+      "ID": "8807",
+      "codigo": "2692",
+      "titulo": "Ed. City Center",
+      "imovel_habilitacao_obj": {
+        "term_id": 79,
+        "name": "Residencial",
+        "slug": "residencial"
+      },
+      "tipo": {
+        "name": "Apartamento",
+        "slug": "apartamento"
+      },
+      "finalidades_imovel": [
+        {
+          "name": "Loca\u00e7\u00e3o",
+          "slug": "locacao"
+        }
+      ],
+      "lat": "-25.4371277",
+      "lng": "-49.2774405",
+      "novo": null,
+      "valor_venda": "",
+      "valor_venda_ext": "0",
+      "valor_aluguel": "450,00",
+      "valor_aluguel_ext": "450",
+      "frase_destaque": {
+        "ID": 0,
+        "key": "field_imovel_frase_destaque",
+        "label": "Frase de Destaque",
+        "name": "imovel_frase_destaque",
+        "prefix": "acf",
+        "type": "select",
+        "value": "",
+        "menu_order": 32,
+        "instructions": "",
+        "required": 0,
+        "id": "",
+        "class": "",
+        "conditional_logic": 0,
+        "parent": "group_acf_dados-imovel",
+        "wrapper": {
+          "id": "acf-imovel_frase_destaque"
+        },
+        "_name": "imovel_frase_destaque",
+        "_input": "",
+        "_valid": 1,
+        "choices": {
+          "": "",
+          "lancamento": "Lan\u00e7amento",
+          "novo": "Novo",
+          "promocao": "Promo\u00e7\u00e3o",
+          "oportunidade": "Oportunidade",
+          "baixou": "Baixou",
+          "1_locacao": "1\u00aa Loca\u00e7\u00e3o"
+        },
+        "default_value": "",
+        "placeholder": "",
+        "prepend": "",
+        "append": "",
+        "formatting": "none",
+        "maxlength": "",
+        "multiple": 0,
+        "allow_null": 0,
+        "ui": 0,
+        "ajax": 0,
+        "return_format": "value"
+      },
+      "imovel_status": "Dispon\u00edvel",
+      "imovel_dormitorios": "1",
+      "imovel_banheiros": "1",
+      "imovel_garagens": "0",
+      "imovel_area_util": "26.4",
+      "endereco": {
+        "rua": "Rua Emiliano Perneta, 659",
+        "cidade": "Curitiba, PR",
+        "bairro": "Centro"
+      },
+      "descricao": "undefined<p>undefined<em>Apartamento muito bem localizado!\u00a0<\/em><\/p>\n",
+      "permalink": "http:\/\/www.senzalaimoveis.com.br\/imoveis\/curitiba-\/locacao\/residencial\/apartamento\/kitnet-1-dormitorio-centro-2692\/",
+      "thumb_image_url": "http:\/\/www.senzalaimoveis.com.br\/wp-content\/uploads\/2016\/10\/cod2692-destaque-328x180.jpg",
+      "full_image_url": "http:\/\/www.senzalaimoveis.com.br\/wp-content\/uploads\/2016\/10\/cod2692-destaque.jpg"
+    },
+    {
+      "ID": "9004",
+      "codigo": "2549",
+      "titulo": "Ed. City Center",
+      "imovel_habilitacao_obj": {
+        "term_id": 79,
+        "name": "Residencial",
+        "slug": "residencial"
+      },
+      "tipo": {
+        "name": "Apartamento",
+        "slug": "apartamento"
+      },
+      "finalidades_imovel": [
+        {
+          "name": "Loca\u00e7\u00e3o",
+          "slug": "locacao"
+        }
+      ],
+      "lat": "-25.4371277",
+      "lng": "-49.2774405",
+      "novo": null,
+      "valor_venda": "",
+      "valor_venda_ext": "0",
+      "valor_aluguel": "450,00",
+      "valor_aluguel_ext": "450",
+      "frase_destaque": {
+        "ID": 0,
+        "key": "field_imovel_frase_destaque",
+        "label": "Frase de Destaque",
+        "name": "imovel_frase_destaque",
+        "prefix": "acf",
+        "type": "select",
+        "value": "",
+        "menu_order": 32,
+        "instructions": "",
+        "required": 0,
+        "id": "",
+        "class": "",
+        "conditional_logic": 0,
+        "parent": "group_acf_dados-imovel",
+        "wrapper": {
+          "id": "acf-imovel_frase_destaque"
+        },
+        "_name": "imovel_frase_destaque",
+        "_input": "",
+        "_valid": 1,
+        "choices": {
+          "": "",
+          "lancamento": "Lan\u00e7amento",
+          "novo": "Novo",
+          "promocao": "Promo\u00e7\u00e3o",
+          "oportunidade": "Oportunidade",
+          "baixou": "Baixou",
+          "1_locacao": "1\u00aa Loca\u00e7\u00e3o"
+        },
+        "default_value": "",
+        "placeholder": "",
+        "prepend": "",
+        "append": "",
+        "formatting": "none",
+        "maxlength": "",
+        "multiple": 0,
+        "allow_null": 0,
+        "ui": 0,
+        "ajax": 0,
+        "return_format": "value"
+      },
+      "imovel_status": "Dispon\u00edvel",
+      "imovel_dormitorios": "1",
+      "imovel_banheiros": "1",
+      "imovel_garagens": "",
+      "imovel_area_util": "25.92",
+      "endereco": {
+        "rua": "Rua Emiliano Perneta, 659",
+        "cidade": "Curitiba, PR",
+        "bairro": "Centro"
+      },
+      "descricao": "undefined<p>undefined<em>Pequeno, pr\u00e1tico e bem localizado!<\/em><\/p>\n",
+      "permalink": "http:\/\/www.senzalaimoveis.com.br\/imoveis\/curitiba-\/locacao\/residencial\/apartamento\/apartamento-padrao-1-dormitorio-centro-2549\/",
+      "thumb_image_url": "http:\/\/www.senzalaimoveis.com.br\/wp-content\/uploads\/2016\/10\/cod2549-destaque--328x180.jpg",
+      "full_image_url": "http:\/\/www.senzalaimoveis.com.br\/wp-content\/uploads\/2016\/10\/cod2549-destaque-.jpg"
+    },
+    {
+      "ID": "6855",
+      "codigo": "2713",
+      "titulo": "Ed. City Center",
+      "imovel_habilitacao_obj": {
+        "term_id": 79,
+        "name": "Residencial",
+        "slug": "residencial"
+      },
+      "tipo": {
+        "name": "Apartamento",
+        "slug": "apartamento"
+      },
+      "finalidades_imovel": [
+        {
+          "name": "Loca\u00e7\u00e3o",
+          "slug": "locacao"
+        }
+      ],
+      "lat": "-25.4371277",
+      "lng": "-49.27744050000001",
+      "novo": null,
+      "valor_venda": "",
+      "valor_venda_ext": "0",
+      "valor_aluguel": "420,00",
+      "valor_aluguel_ext": "420",
+      "frase_destaque": {
+        "ID": 0,
+        "key": "field_imovel_frase_destaque",
+        "label": "Frase de Destaque",
+        "name": "imovel_frase_destaque",
+        "prefix": "acf",
+        "type": "select",
+        "value": "",
+        "menu_order": 32,
+        "instructions": "",
+        "required": 0,
+        "id": "",
+        "class": "",
+        "conditional_logic": 0,
+        "parent": "group_acf_dados-imovel",
+        "wrapper": {
+          "id": "acf-imovel_frase_destaque"
+        },
+        "_name": "imovel_frase_destaque",
+        "_input": "",
+        "_valid": 1,
+        "choices": {
+          "": "",
+          "lancamento": "Lan\u00e7amento",
+          "novo": "Novo",
+          "promocao": "Promo\u00e7\u00e3o",
+          "oportunidade": "Oportunidade",
+          "baixou": "Baixou",
+          "1_locacao": "1\u00aa Loca\u00e7\u00e3o"
+        },
+        "default_value": "",
+        "placeholder": "",
+        "prepend": "",
+        "append": "",
+        "formatting": "none",
+        "maxlength": "",
+        "multiple": 0,
+        "allow_null": 0,
+        "ui": 0,
+        "ajax": 0,
+        "return_format": "value"
+      },
+      "imovel_status": "Dispon\u00edvel",
+      "imovel_dormitorios": "1",
+      "imovel_banheiros": "1",
+      "imovel_garagens": "0",
+      "imovel_area_util": "20.92",
+      "endereco": {
+        "rua": "Rua Emiliano Perneta, 659",
+        "cidade": "Curitiba, PR",
+        "bairro": "Centro"
+      },
+      "descricao": "undefined<p>undefined<em>Kitnet perfeita e pr\u00e1tica para estudantes!<\/em><\/p>\n",
+      "permalink": "http:\/\/www.senzalaimoveis.com.br\/imoveis\/curitiba-pr\/locacao\/residencial\/apartamento\/kitnet-1-dormitorio-centro-2713\/",
+      "thumb_image_url": "http:\/\/www.senzalaimoveis.com.br\/wp-content\/uploads\/2016\/07\/cod2713-destaque-328x180.jpg",
+      "full_image_url": "http:\/\/www.senzalaimoveis.com.br\/wp-content\/uploads\/2016\/07\/cod2713-destaque.jpg"
+    },
+    {
+      "ID": "8816",
+      "codigo": "2540",
+      "titulo": "Ed. City Center",
+      "imovel_habilitacao_obj": {
+        "term_id": 79,
+        "name": "Residencial",
+        "slug": "residencial"
+      },
+      "tipo": {
+        "name": "Apartamento",
+        "slug": "apartamento"
+      },
+      "finalidades_imovel": [
+        {
+          "name": "Loca\u00e7\u00e3o",
+          "slug": "locacao"
+        }
+      ],
+      "lat": "-25.4371277",
+      "lng": "-49.2774405",
+      "novo": null,
+      "valor_venda": "",
+      "valor_venda_ext": "0",
+      "valor_aluguel": "420,00",
+      "valor_aluguel_ext": "420",
+      "frase_destaque": {
+        "ID": 0,
+        "key": "field_imovel_frase_destaque",
+        "label": "Frase de Destaque",
+        "name": "imovel_frase_destaque",
+        "prefix": "acf",
+        "type": "select",
+        "value": "",
+        "menu_order": 32,
+        "instructions": "",
+        "required": 0,
+        "id": "",
+        "class": "",
+        "conditional_logic": 0,
+        "parent": "group_acf_dados-imovel",
+        "wrapper": {
+          "id": "acf-imovel_frase_destaque"
+        },
+        "_name": "imovel_frase_destaque",
+        "_input": "",
+        "_valid": 1,
+        "choices": {
+          "": "",
+          "lancamento": "Lan\u00e7amento",
+          "novo": "Novo",
+          "promocao": "Promo\u00e7\u00e3o",
+          "oportunidade": "Oportunidade",
+          "baixou": "Baixou",
+          "1_locacao": "1\u00aa Loca\u00e7\u00e3o"
+        },
+        "default_value": "",
+        "placeholder": "",
+        "prepend": "",
+        "append": "",
+        "formatting": "none",
+        "maxlength": "",
+        "multiple": 0,
+        "allow_null": 0,
+        "ui": 0,
+        "ajax": 0,
+        "return_format": "value"
+      },
+      "imovel_status": "Dispon\u00edvel",
+      "imovel_dormitorios": "1",
+      "imovel_banheiros": "1",
+      "imovel_garagens": "0",
+      "imovel_area_util": "20.9",
+      "endereco": {
+        "rua": "Rua Emiliano Perneta, 659",
+        "cidade": "Curitiba, PR",
+        "bairro": "Centro"
+      },
+      "descricao": "undefined<p>undefined<em>Pequeno e conjugado para morar sozinho!<\/em><\/p>\n",
+      "permalink": "http:\/\/www.senzalaimoveis.com.br\/imoveis\/curitiba-\/locacao\/residencial\/apartamento\/kitnet-1-dormitorio-centro-2540\/",
+      "thumb_image_url": "http:\/\/www.senzalaimoveis.com.br\/wp-content\/uploads\/2016\/10\/cod2540-destaque-328x180.jpg",
+      "full_image_url": "http:\/\/www.senzalaimoveis.com.br\/wp-content\/uploads\/2016\/10\/cod2540-destaque.jpg"
+    }
+  ],
+  "msg": "OK",
+  "code": 1
+}
