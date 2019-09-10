@@ -1,2 +1,2 @@
 # ar-android-exemplos
-Varias libs ajustas 
+Varias libs ajustadas 
